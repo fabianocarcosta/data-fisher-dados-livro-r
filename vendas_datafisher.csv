@@ -1,0 +1,501 @@
+"id_venda","data","servico","regiao","setor_cliente","canal_origem","horas_projeto","desconto_percentual","valor_bruto","valor_liquido","avaliacao_cliente"
+"DF-0001",2025-01-01,"Modelagem Preditiva","Sudeste","Indústria","Indicação",95,4.1,26200,25125.8,8
+"DF-0002",2025-01-02,"Modelagem Preditiva","Sudeste","Varejo","Prospecção Ativa",68,14.2,22960,19699.68,8
+"DF-0003",2025-01-03,"Consultoria Analítica","Nordeste","Indústria","Indicação",75,6.7,13800,12875.4,9
+"DF-0004",2025-01-04,"Auditoria de Dados","Sul","Saúde","Prospecção Ativa",66,8.1,9220,8473.18,10
+"DF-0005",2025-01-05,"Treinamento In-Company","Sudeste","Finanças","Website",45,2.4,4200,4099.2,8
+"DF-0006",2025-01-06,"Desenvolvimento Shiny","Norte","Varejo","LinkedIn",51,10.4,16920,15160.32,9
+"DF-0007",2025-01-07,"Treinamento In-Company","Centro-Oeste","Saúde","Website",62,12,6240,5491.2,8
+"DF-0008",2025-01-08,"Consultoria Analítica","Sudeste","Indústria","Indicação",16,11.6,6720,5940.48,7
+"DF-0009",2025-01-09,"Treinamento In-Company","Norte","Varejo","Indicação",47,3.2,4440,4297.92,10
+"DF-0010",2025-01-10,"Treinamento In-Company","Sudeste","Indústria","Website",72,3.1,7440,7209.36,8
+"DF-0011",2025-01-11,"Desenvolvimento Shiny","Sudeste","Finanças","Website",56,9.5,17520,15855.6,10
+"DF-0012",2025-01-13,"Treinamento In-Company","Sul","Saúde","Indicação",56,11.4,5520,4890.72,8
+"DF-0013",2025-01-14,"Modelagem Preditiva","Sudeste","Varejo","LinkedIn",73,12.1,23560,20709.24,9
+"DF-0014",2025-01-15,"Consultoria Analítica","Sudeste","Varejo","Indicação",52,12.4,11040,9671.04,10
+"DF-0015",2025-01-16,"Desenvolvimento Shiny","Nordeste","Varejo","Prospecção Ativa",69,1.8,19080,18736.56,10
+"DF-0016",2025-01-17,"Modelagem Preditiva","Sudeste","Indústria","Indicação",39,4.2,19480,18661.84,8
+"DF-0017",2025-01-18,"Modelagem Preditiva","Sudeste","Varejo","Website",42,12.7,19840,17320.32,9
+"DF-0018",2025-01-19,"Consultoria Analítica","Sudeste","Finanças","Indicação",35,1.6,9000,8856,10
+"DF-0019",2025-01-20,"Desenvolvimento Shiny","Nordeste","Indústria","Website",61,0.3,18120,18065.64,8
+"DF-0020",2025-01-21,"Treinamento In-Company","Centro-Oeste","Finanças","Prospecção Ativa",57,6.2,5640,5290.32,9
+"DF-0021",2025-01-22,"Modelagem Preditiva","Sul","Agronegócio","LinkedIn",82,8.9,24640,22447.04,8
+"DF-0022",2025-01-23,"Consultoria Analítica","Norte","Varejo","Website",59,7.7,11880,10965.24,7
+"DF-0023",2025-01-25,"Modelagem Preditiva","Sul","Finanças","Website",80,14,24400,20984,6
+"DF-0024",2025-01-26,"Modelagem Preditiva","Sudeste","Finanças","LinkedIn",89,3.9,25480,24486.28,9
+"DF-0025",2025-01-27,"Consultoria Analítica","Centro-Oeste","Varejo","Website",53,10.7,11160,9965.88,8
+"DF-0026",2025-01-28,"Desenvolvimento Shiny","Centro-Oeste","Finanças","Indicação",66,2.5,18720,18252,10
+"DF-0027",2025-01-29,"Desenvolvimento Shiny","Sudeste","Finanças","Website",47,12.3,16440,14417.88,7
+"DF-0028",2025-01-30,"Modelagem Preditiva","Norte","Varejo","LinkedIn",71,11.3,23320,20684.84,8
+"DF-0029",2025-01-31,"Desenvolvimento Shiny","Nordeste","Agronegócio","LinkedIn",44,4.3,16080,15388.56,10
+"DF-0030",2025-02-01,"Auditoria de Dados","Sudeste","Agronegócio","LinkedIn",45,2.7,6700,6519.1,8
+"DF-0031",2025-02-02,"Treinamento In-Company","Norte","Agronegócio","Indicação",64,9.3,6480,5877.36,9
+"DF-0032",2025-02-03,"Auditoria de Dados","Sudeste","Varejo","Prospecção Ativa",61,9.2,8620,7826.96,10
+"DF-0033",2025-02-04,"Desenvolvimento Shiny","Sul","Varejo","Indicação",64,13,18480,16077.6,10
+"DF-0034",2025-02-06,"Treinamento In-Company","Centro-Oeste","Varejo","LinkedIn",61,9.6,6120,5532.48,9
+"DF-0035",2025-02-07,"Consultoria Analítica","Nordeste","Finanças","Indicação",52,1.4,11040,10885.44,8
+"DF-0036",2025-02-08,"Auditoria de Dados","Sudeste","Saúde","Prospecção Ativa",58,13,8260,7186.2,7
+"DF-0037",2025-02-09,"Consultoria Analítica","Sudeste","Agronegócio","Indicação",84,12.6,14880,13005.12,8
+"DF-0038",2025-02-10,"Consultoria Analítica","Nordeste","Saúde","Indicação",60,7.4,12000,11112,8
+"DF-0039",2025-02-11,"Modelagem Preditiva","Nordeste","Finanças","Website",40,1.2,19600,19364.8,7
+"DF-0040",2025-02-12,"Treinamento In-Company","Sudeste","Varejo","LinkedIn",47,0.3,4440,4426.68,NA
+"DF-0041",2025-02-13,"Desenvolvimento Shiny","Sul","Agronegócio","Prospecção Ativa",43,4.6,15960,15225.84,10
+"DF-0042",2025-02-14,"Desenvolvimento Shiny","Norte","Finanças","LinkedIn",46,11,16320,14524.8,8
+"DF-0043",2025-02-15,"Consultoria Analítica","Nordeste","Finanças","Indicação",41,14.9,9720,8271.72,7
+"DF-0044",2025-02-16,"Modelagem Preditiva","Sudeste","Saúde","Indicação",21,6.8,17320,16142.24,7
+"DF-0045",2025-02-18,"Desenvolvimento Shiny","Centro-Oeste","Indústria","Website",70,10.4,19200,17203.2,10
+"DF-0046",2025-02-19,"Modelagem Preditiva","Sul","Varejo","LinkedIn",70,14.2,23200,19905.6,9
+"DF-0047",2025-02-20,"Auditoria de Dados","Centro-Oeste","Saúde","Indicação",56,7,8020,7458.6,6
+"DF-0048",2025-02-21,"Treinamento In-Company","Sudeste","Indústria","LinkedIn",49,10.6,4680,4183.92,9
+"DF-0049",2025-02-22,"Modelagem Preditiva","Sudeste","Agronegócio","LinkedIn",48,12.5,20560,17990,NA
+"DF-0050",2025-02-23,"Treinamento In-Company","Sudeste","Varejo","LinkedIn",66,0.7,6720,6672.96,8
+"DF-0051",2025-02-24,"Desenvolvimento Shiny","Norte","Indústria","Website",63,6.1,18360,17240.04,7
+"DF-0052",2025-02-25,"Desenvolvimento Shiny","Sudeste","Varejo","Prospecção Ativa",66,8.1,18720,17203.68,8
+"DF-0053",2025-02-26,"Desenvolvimento Shiny","Centro-Oeste","Varejo","Website",60,11,18000,16020,8
+"DF-0054",2025-02-27,"Auditoria de Dados","Sudeste","Saúde","Website",69,2.2,9580,9369.24,8
+"DF-0055",2025-02-28,"Consultoria Analítica","Sudeste","Finanças","Website",66,5.5,12720,12020.4,6
+"DF-0056",2025-03-02,"Treinamento In-Company","Sudeste","Indústria","LinkedIn",68,0.3,6960,6939.12,9
+"DF-0057",2025-03-03,"Treinamento In-Company","Norte","Saúde","Indicação",67,0.1,6840,6833.16,10
+"DF-0058",2025-03-04,"Consultoria Analítica","Sudeste","Saúde","Website",85,11.9,15000,13215,10
+"DF-0059",2025-03-05,"Consultoria Analítica","Norte","Varejo","Website",44,10.2,10080,9051.84,10
+"DF-0060",2025-03-06,"Desenvolvimento Shiny","Sul","Finanças","Website",83,0.4,20760,20676.96,9
+"DF-0061",2025-03-07,"Treinamento In-Company","Sul","Varejo","Website",55,4.6,5400,5151.6,7
+"DF-0062",2025-03-08,"Modelagem Preditiva","Sudeste","Agronegócio","Prospecção Ativa",59,14.2,21880,18773.04,9
+"DF-0063",2025-03-09,"Auditoria de Dados","Sudeste","Varejo","LinkedIn",61,4.2,8620,8257.96,10
+"DF-0064",2025-03-10,"Treinamento In-Company","Sudeste","Varejo","Indicação",53,5.4,5160,4881.36,10
+"DF-0065",2025-03-11,"Auditoria de Dados","Sudeste","Finanças","Indicação",22,7.5,3940,3644.5,10
+"DF-0066",2025-03-12,"Consultoria Analítica","Sudeste","Saúde","LinkedIn",55,4,11400,10944,10
+"DF-0067",2025-03-14,"Consultoria Analítica","Sul","Agronegócio","Indicação",61,13.7,12120,10459.56,9
+"DF-0068",2025-03-15,"Auditoria de Dados","Sudeste","Varejo","Prospecção Ativa",34,2.7,5380,5234.74,7
+"DF-0069",2025-03-16,"Treinamento In-Company","Nordeste","Finanças","LinkedIn",68,9.2,6960,6319.68,8
+"DF-0070",2025-03-17,"Consultoria Analítica","Sul","Saúde","Website",51,0.7,10920,10843.56,10
+"DF-0071",2025-03-18,"Consultoria Analítica","Centro-Oeste","Saúde","Indicação",82,12,14640,12883.2,10
+"DF-0072",2025-03-19,"Consultoria Analítica","Sudeste","Varejo","Prospecção Ativa",64,9.9,12480,11244.48,8
+"DF-0073",2025-03-20,"Consultoria Analítica","Norte","Finanças","Indicação",48,11,10560,9398.4,8
+"DF-0074",2025-03-21,"Desenvolvimento Shiny","Sudeste","Agronegócio","Indicação",63,0.7,18360,18231.48,8
+"DF-0075",2025-03-22,"Consultoria Analítica","Sudeste","Varejo","Website",64,8.1,12480,11469.12,9
+"DF-0076",2025-03-23,"Treinamento In-Company","Centro-Oeste","Saúde","LinkedIn",74,9.4,7680,6958.08,8
+"DF-0077",2025-03-25,"Consultoria Analítica","Sudeste","Agronegócio","Website",58,11.2,11760,10442.88,8
+"DF-0078",2025-03-26,"Desenvolvimento Shiny","Sudeste","Varejo","Indicação",29,2.2,14280,13965.84,10
+"DF-0079",2025-03-27,"Desenvolvimento Shiny","Centro-Oeste","Varejo","Prospecção Ativa",41,6.7,15720,14666.76,NA
+"DF-0080",2025-03-28,"Consultoria Analítica","Centro-Oeste","Varejo","Indicação",47,10.5,10440,9343.8,10
+"DF-0081",2025-03-29,"Treinamento In-Company","Sudeste","Finanças","Website",66,1.6,6720,6612.48,8
+"DF-0082",2025-03-30,"Consultoria Analítica","Norte","Agronegócio","Indicação",56,11.6,11520,10183.68,9
+"DF-0083",2025-03-31,"Desenvolvimento Shiny","Centro-Oeste","Finanças","Website",51,9.5,16920,15312.6,10
+"DF-0084",2025-04-01,"Treinamento In-Company","Centro-Oeste","Indústria","Indicação",47,8.9,4440,4044.84,10
+"DF-0085",2025-04-02,"Auditoria de Dados","Sudeste","Indústria","LinkedIn",62,0.2,8740,8722.52,10
+"DF-0086",2025-04-03,"Treinamento In-Company","Nordeste","Varejo","Indicação",47,0.3,4440,4426.68,7
+"DF-0087",2025-04-04,"Consultoria Analítica","Norte","Agronegócio","Website",54,NA,11280,11009.28,9
+"DF-0088",2025-04-06,"Consultoria Analítica","Norte","Saúde","Indicação",46,1,10320,10216.8,8
+"DF-0089",2025-04-07,"Consultoria Analítica","Nordeste","Saúde","Website",39,7.1,9480,8806.92,8
+"DF-0090",2025-04-08,"Desenvolvimento Shiny","Sul","Varejo","Website",74,14.7,19680,16787.04,8
+"DF-0091",2025-04-09,"Treinamento In-Company","Sudeste","Agronegócio","Indicação",40,6.5,3600,3366,10
+"DF-0092",2025-04-10,"Consultoria Analítica","Sul","Varejo","LinkedIn",61,14.2,12120,10398.96,9
+"DF-0093",2025-04-11,"Consultoria Analítica","Nordeste","Indústria","Indicação",51,5.1,10920,10363.08,9
+"DF-0094",2025-04-12,"Modelagem Preditiva","Norte","Saúde","Indicação",44,7.4,20080,18594.08,10
+"DF-0095",2025-04-13,"Modelagem Preditiva","Sul","Finanças","Indicação",64,NA,22480,19647.52,8
+"DF-0096",2025-04-14,"Treinamento In-Company","Nordeste","Saúde","Website",66,12.4,6720,5886.72,9
+"DF-0097",2025-04-15,"Desenvolvimento Shiny","Nordeste","Saúde","Website",79,2.1,20280,19854.12,10
+"DF-0098",2025-04-16,"Desenvolvimento Shiny","Sudeste","Varejo","Indicação",65,1.7,18600,18283.8,8
+"DF-0099",2025-04-18,"Treinamento In-Company","Sudeste","Agronegócio","Indicação",58,0.1,5760,5754.24,8
+"DF-0100",2025-04-19,"Treinamento In-Company","Nordeste","Saúde","Website",99,11.1,10680,9494.52,8
+"DF-0101",2025-04-20,"Treinamento In-Company","Nordeste","Varejo","LinkedIn",50,NA,4800,4238.4,7
+"DF-0102",2025-04-21,"Consultoria Analítica","Sudeste","Saúde","LinkedIn",45,3.2,10200,9873.6,9
+"DF-0103",2025-04-22,"Consultoria Analítica","Sul","Saúde","LinkedIn",52,7.8,11040,10178.88,9
+"DF-0104",2025-04-23,"Desenvolvimento Shiny","Sudeste","Varejo","Indicação",58,2.9,17760,17244.96,NA
+"DF-0105",2025-04-24,"Modelagem Preditiva","Nordeste","Finanças","Website",69,6.9,23080,21487.48,NA
+"DF-0106",2025-04-25,"Modelagem Preditiva","Nordeste","Saúde","LinkedIn",66,7.9,22720,20925.12,10
+"DF-0107",2025-04-26,"Treinamento In-Company","Sul","Indústria","Website",58,5.2,5760,5460.48,7
+"DF-0108",2025-04-27,"Treinamento In-Company","Sudeste","Finanças","Prospecção Ativa",47,11.1,4440,3947.16,10
+"DF-0109",2025-04-28,"Desenvolvimento Shiny","Nordeste","Indústria","Indicação",77,0.7,20040,19899.72,9
+"DF-0110",2025-04-30,"Consultoria Analítica","Nordeste","Agronegócio","Website",74,NA,13680,13091.76,8
+"DF-0111",2025-05-01,"Treinamento In-Company","Nordeste","Saúde","Website",49,2.6,4680,4558.32,10
+"DF-0112",2025-05-02,"Auditoria de Dados","Nordeste","Finanças","Website",70,4.1,9700,9302.3,9
+"DF-0113",2025-05-03,"Auditoria de Dados","Centro-Oeste","Agronegócio","Indicação",67,10.4,9340,8368.64,10
+"DF-0114",2025-05-04,"Desenvolvimento Shiny","Nordeste","Indústria","Prospecção Ativa",76,12.7,19920,17390.16,9
+"DF-0115",2025-05-05,"Desenvolvimento Shiny","Sul","Varejo","LinkedIn",62,7.6,18240,16853.76,8
+"DF-0116",2025-05-06,"Desenvolvimento Shiny","Norte","Varejo","LinkedIn",43,14.3,15960,13677.72,6
+"DF-0117",2025-05-07,"Consultoria Analítica","Sudeste","Indústria","Prospecção Ativa",72,1.2,13440,13278.72,10
+"DF-0118",2025-05-08,"Desenvolvimento Shiny","Sudeste","Indústria","LinkedIn",49,7.8,16680,15378.96,8
+"DF-0119",2025-05-09,"Treinamento In-Company","Nordeste","Varejo","LinkedIn",68,10.9,6960,6201.36,10
+"DF-0120",2025-05-10,"Auditoria de Dados","Sudeste","Agronegócio","Prospecção Ativa",85,1.5,11500,11327.5,9
+"DF-0121",2025-05-12,"Desenvolvimento Shiny","Nordeste","Indústria","Indicação",39,11.8,15480,13653.36,9
+"DF-0122",2025-05-13,"Desenvolvimento Shiny","Centro-Oeste","Agronegócio","Prospecção Ativa",83,6.7,20760,19369.08,10
+"DF-0123",2025-05-14,"Treinamento In-Company","Sudeste","Saúde","Prospecção Ativa",80,6.7,8400,7837.2,8
+"DF-0124",2025-05-15,"Treinamento In-Company","Sul","Finanças","Indicação",52,11,5040,4485.6,8
+"DF-0125",2025-05-16,"Treinamento In-Company","Sudeste","Indústria","LinkedIn",56,7.4,5520,5111.52,8
+"DF-0126",2025-05-17,"Desenvolvimento Shiny","Centro-Oeste","Indústria","LinkedIn",50,1.6,16800,16531.2,10
+"DF-0127",2025-05-18,"Modelagem Preditiva","Sudeste","Saúde","Website",51,13.8,20920,18033.04,8
+"DF-0128",2025-05-19,"Modelagem Preditiva","Nordeste","Indústria","Indicação",69,3.6,23080,22249.12,8
+"DF-0129",2025-05-20,"Consultoria Analítica","Sul","Varejo","Indicação",47,9.8,10440,9416.88,10
+"DF-0130",2025-05-21,"Treinamento In-Company","Nordeste","Finanças","Indicação",57,13.3,5640,4889.88,10
+"DF-0131",2025-05-22,"Modelagem Preditiva","Sudeste","Varejo","Indicação",58,13.3,21760,18865.92,10
+"DF-0132",2025-05-24,"Treinamento In-Company","Sudeste","Indústria","Indicação",59,14.6,5880,5021.52,9
+"DF-0133",2025-05-25,"Treinamento In-Company","Sudeste","Indústria","Website",63,7.2,6360,5902.08,10
+"DF-0134",2025-05-26,"Modelagem Preditiva","Sudeste","Varejo","Indicação",84,1.4,24880,24531.68,9
+"DF-0135",2025-05-27,"Auditoria de Dados","Centro-Oeste","Finanças","LinkedIn",53,14,7660,6587.6,8
+"DF-0136",2025-05-28,"Treinamento In-Company","Sul","Saúde","LinkedIn",48,4.7,4560,4345.68,10
+"DF-0137",2025-05-29,"Auditoria de Dados","Sudeste","Finanças","Indicação",72,7,9940,9244.2,6
+"DF-0138",2025-05-30,"Consultoria Analítica","Nordeste","Varejo","Indicação",66,8.3,12720,11664.24,10
+"DF-0139",2025-05-31,"Auditoria de Dados","Norte","Finanças","Prospecção Ativa",64,12.3,8980,7875.46,9
+"DF-0140",2025-06-01,"Treinamento In-Company","Sul","Saúde","Prospecção Ativa",69,9.5,7080,6407.4,9
+"DF-0141",2025-06-02,"Consultoria Analítica","Sudeste","Finanças","Indicação",39,5.5,9480,8958.6,8
+"DF-0142",2025-06-03,"Consultoria Analítica","Sudeste","Agronegócio","LinkedIn",76,7.2,13920,12917.76,8
+"DF-0143",2025-06-05,"Desenvolvimento Shiny","Centro-Oeste","Finanças","Website",67,NA,18840,18444.36,10
+"DF-0144",2025-06-06,"Auditoria de Dados","Sul","Indústria","Indicação",74,3.6,10180,9813.52,9
+"DF-0145",2025-06-07,"Treinamento In-Company","Nordeste","Varejo","Website",51,12.6,4920,4300.08,8
+"DF-0146",2025-06-08,"Auditoria de Dados","Centro-Oeste","Varejo","Indicação",32,12.2,5140,4512.92,8
+"DF-0147",2025-06-09,"Consultoria Analítica","Nordeste","Varejo","Indicação",53,14.8,11160,9508.32,8
+"DF-0148",2025-06-10,"Modelagem Preditiva","Nordeste","Finanças","Prospecção Ativa",46,10.9,20320,18105.12,9
+"DF-0149",2025-06-11,"Consultoria Analítica","Norte","Finanças","Website",93,5.6,15960,15066.24,7
+"DF-0150",2025-06-12,"Consultoria Analítica","Norte","Varejo","Indicação",54,7.7,11280,10411.44,10
+"DF-0151",2025-06-13,"Treinamento In-Company","Sudeste","Agronegócio","LinkedIn",57,13.9,5640,4856.04,9
+"DF-0152",2025-06-14,"Desenvolvimento Shiny","Norte","Varejo","Indicação",76,8.7,19920,18186.96,10
+"DF-0153",2025-06-16,"Auditoria de Dados","Norte","Agronegócio","Indicação",69,6.1,9580,8995.62,10
+"DF-0154",2025-06-17,"Desenvolvimento Shiny","Centro-Oeste","Indústria","Prospecção Ativa",70,3.2,19200,18585.6,10
+"DF-0155",2025-06-18,"Treinamento In-Company","Nordeste","Saúde","Indicação",100,12.3,10800,9471.6,7
+"DF-0156",2025-06-19,"Auditoria de Dados","Nordeste","Agronegócio","LinkedIn",62,7.4,8740,8093.24,9
+"DF-0157",2025-06-20,"Consultoria Analítica","Sudeste","Finanças","Website",89,2.4,15480,15108.48,8
+"DF-0158",2025-06-21,"Consultoria Analítica","Sudeste","Saúde","Website",64,10.6,12480,11157.12,9
+"DF-0159",2025-06-22,"Consultoria Analítica","Nordeste","Indústria","Website",38,9.1,9360,8508.24,8
+"DF-0160",2025-06-23,"Treinamento In-Company","Sudeste","Varejo","Prospecção Ativa",27,1.7,2040,2005.32,9
+"DF-0161",2025-06-24,"Modelagem Preditiva","Sul","Saúde","Website",70,3.3,23200,22434.4,9
+"DF-0162",2025-06-25,"Treinamento In-Company","Norte","Finanças","Prospecção Ativa",45,8.2,4200,3855.6,6
+"DF-0163",2025-06-26,"Treinamento In-Company","Sudeste","Finanças","LinkedIn",61,1.3,6120,6040.44,10
+"DF-0164",2025-06-28,"Consultoria Analítica","Sul","Finanças","LinkedIn",87,1.9,15240,14950.44,9
+"DF-0165",2025-06-29,"Desenvolvimento Shiny","Sudeste","Varejo","Website",65,11.2,18600,16516.8,8
+"DF-0166",2025-06-30,"Consultoria Analítica","Sul","Varejo","Indicação",56,13.2,11520,9999.36,7
+"DF-0167",2025-07-01,"Desenvolvimento Shiny","Centro-Oeste","Varejo","LinkedIn",31,14.2,14520,12458.16,8
+"DF-0168",2025-07-02,"Desenvolvimento Shiny","Nordeste","Finanças","Indicação",48,3.9,16560,15914.16,7
+"DF-0169",2025-07-03,"Consultoria Analítica","Sul","Saúde","Indicação",51,3.2,10920,10570.56,9
+"DF-0170",2025-07-04,"Consultoria Analítica","Sudeste","Finanças","Website",70,3.1,13200,12790.8,10
+"DF-0171",2025-07-05,"Treinamento In-Company","Nordeste","Varejo","Indicação",67,2.8,6840,6648.48,NA
+"DF-0172",2025-07-06,"Desenvolvimento Shiny","Sul","Saúde","Indicação",60,3,18000,17460,9
+"DF-0173",2025-07-07,"Desenvolvimento Shiny","Sudeste","Agronegócio","Website",63,2.1,18360,17974.44,7
+"DF-0174",2025-07-08,"Desenvolvimento Shiny","Nordeste","Agronegócio","Indicação",56,10.4,17520,15697.92,NA
+"DF-0175",2025-07-10,"Desenvolvimento Shiny","Sudeste","Varejo","Website",60,4.9,18000,17118,8
+"DF-0176",2025-07-11,"Consultoria Analítica","Sudeste","Varejo","Indicação",64,5.7,12480,11768.64,10
+"DF-0177",2025-07-12,"Auditoria de Dados","Sudeste","Finanças","LinkedIn",67,11.2,9340,8293.92,8
+"DF-0178",2025-07-13,"Treinamento In-Company","Sudeste","Agronegócio","Indicação",87,NA,9240,8851.92,9
+"DF-0179",2025-07-14,"Auditoria de Dados","Sudeste","Finanças","Indicação",43,11.4,6460,5723.56,8
+"DF-0180",2025-07-15,"Auditoria de Dados","Nordeste","Agronegócio","Prospecção Ativa",82,1.1,11140,11017.46,9
+"DF-0181",2025-07-16,"Modelagem Preditiva","Nordeste","Finanças","LinkedIn",70,10.1,23200,20856.8,7
+"DF-0182",2025-07-17,"Auditoria de Dados","Norte","Varejo","LinkedIn",37,13.8,5740,4947.88,NA
+"DF-0183",2025-07-18,"Desenvolvimento Shiny","Sul","Saúde","Indicação",56,11.6,17520,15487.68,9
+"DF-0184",2025-07-19,"Consultoria Analítica","Norte","Varejo","Indicação",51,11.1,10920,9707.88,8
+"DF-0185",2025-07-20,"Treinamento In-Company","Sudeste","Indústria","Indicação",46,4.8,4320,4112.64,7
+"DF-0186",2025-07-22,"Treinamento In-Company","Sul","Indústria","Website",37,9.5,3240,2932.2,9
+"DF-0187",2025-07-23,"Modelagem Preditiva","Sudeste","Finanças","Website",53,6.5,21160,19784.6,6
+"DF-0188",2025-07-24,"Auditoria de Dados","Sudeste","Finanças","Indicação",53,5,7660,7277,8
+"DF-0189",2025-07-25,"Consultoria Analítica","Sul","Finanças","Website",55,11.3,11400,10111.8,9
+"DF-0190",2025-07-26,"Consultoria Analítica","Nordeste","Agronegócio","LinkedIn",29,0.3,8280,8255.16,8
+"DF-0191",2025-07-27,"Consultoria Analítica","Centro-Oeste","Saúde","Indicação",67,5.8,12840,12095.28,7
+"DF-0192",2025-07-28,"Auditoria de Dados","Sudeste","Saúde","Website",71,4.5,9820,9378.1,8
+"DF-0193",2025-07-29,"Consultoria Analítica","Norte","Finanças","Indicação",72,2.5,13440,13104,9
+"DF-0194",2025-07-30,"Consultoria Analítica","Sul","Varejo","Prospecção Ativa",72,9.2,13440,12203.52,8
+"DF-0195",2025-07-31,"Consultoria Analítica","Sudeste","Agronegócio","Indicação",63,1.3,12360,12199.32,7
+"DF-0196",2025-08-01,"Consultoria Analítica","Sul","Saúde","LinkedIn",82,3.2,14640,14171.52,7
+"DF-0197",2025-08-03,"Desenvolvimento Shiny","Nordeste","Varejo","LinkedIn",47,14.9,16440,13990.44,8
+"DF-0198",2025-08-04,"Consultoria Analítica","Norte","Varejo","Indicação",42,1.9,9840,9653.04,NA
+"DF-0199",2025-08-05,"Treinamento In-Company","Norte","Indústria","LinkedIn",65,NA,6600,6553.8,10
+"DF-0200",2025-08-06,"Treinamento In-Company","Nordeste","Finanças","Indicação",67,13.5,6840,5916.6,7
+"DF-0201",2025-08-07,"Auditoria de Dados","Sul","Finanças","Indicação",49,7.7,7180,6627.14,9
+"DF-0202",2025-08-08,"Desenvolvimento Shiny","Nordeste","Finanças","Indicação",61,0.8,18120,17975.04,8
+"DF-0203",2025-08-09,"Auditoria de Dados","Sudeste","Saúde","LinkedIn",65,14.6,9100,7771.4,9
+"DF-0204",2025-08-10,"Desenvolvimento Shiny","Sul","Varejo","Website",66,2.4,18720,18270.72,8
+"DF-0205",2025-08-11,"Consultoria Analítica","Sul","Indústria","Website",73,12,13560,11932.8,10
+"DF-0206",2025-08-12,"Desenvolvimento Shiny","Sul","Agronegócio","Website",74,2.3,19680,19227.36,7
+"DF-0207",2025-08-13,"Modelagem Preditiva","Sudeste","Indústria","Indicação",24,6.4,17680,16548.48,9
+"DF-0208",2025-08-15,"Desenvolvimento Shiny","Sudeste","Saúde","Indicação",86,2.9,21120,20507.52,9
+"DF-0209",2025-08-16,"Consultoria Analítica","Sudeste","Finanças","LinkedIn",67,10.5,12840,11491.8,10
+"DF-0210",2025-08-17,"Consultoria Analítica","Centro-Oeste","Saúde","LinkedIn",51,12,10920,9609.6,8
+"DF-0211",2025-08-18,"Desenvolvimento Shiny","Norte","Agronegócio","Website",43,14.4,15960,13661.76,9
+"DF-0212",2025-08-19,"Treinamento In-Company","Norte","Agronegócio","LinkedIn",74,0.7,7680,7626.24,9
+"DF-0213",2025-08-20,"Desenvolvimento Shiny","Nordeste","Varejo","LinkedIn",65,8.6,18600,17000.4,8
+"DF-0214",2025-08-21,"Consultoria Analítica","Sul","Finanças","Prospecção Ativa",76,6.3,13920,13043.04,9
+"DF-0215",2025-08-22,"Desenvolvimento Shiny","Sul","Indústria","Website",59,4.3,17880,17111.16,9
+"DF-0216",2025-08-23,"Auditoria de Dados","Sul","Saúde","Indicação",56,5.2,8020,7602.96,10
+"DF-0217",2025-08-24,"Treinamento In-Company","Nordeste","Finanças","Prospecção Ativa",94,13.9,10080,8678.88,9
+"DF-0218",2025-08-26,"Desenvolvimento Shiny","Sudeste","Finanças","Indicação",29,13.6,14280,12337.92,9
+"DF-0219",2025-08-27,"Desenvolvimento Shiny","Sudeste","Varejo","Indicação",66,14.5,18720,16005.6,10
+"DF-0220",2025-08-28,"Auditoria de Dados","Centro-Oeste","Indústria","LinkedIn",66,12,9220,8113.6,9
+"DF-0221",2025-08-29,"Desenvolvimento Shiny","Sudeste","Varejo","Website",67,2.4,18840,18387.84,9
+"DF-0222",2025-08-30,"Consultoria Analítica","Centro-Oeste","Saúde","LinkedIn",68,4.1,12960,12428.64,9
+"DF-0223",2025-08-31,"Desenvolvimento Shiny","Sudeste","Saúde","Website",56,11.5,17520,15505.2,10
+"DF-0224",2025-09-01,"Modelagem Preditiva","Nordeste","Finanças","Indicação",77,12.3,24040,21083.08,10
+"DF-0225",2025-09-02,"Desenvolvimento Shiny","Sudeste","Agronegócio","Website",23,8.3,13560,12434.52,9
+"DF-0226",2025-09-03,"Auditoria de Dados","Sul","Indústria","Website",48,2.2,7060,6904.68,8
+"DF-0227",2025-09-04,"Desenvolvimento Shiny","Nordeste","Saúde","Website",58,11.4,17760,15735.36,9
+"DF-0228",2025-09-05,"Consultoria Analítica","Nordeste","Varejo","LinkedIn",62,1.3,12240,12080.88,9
+"DF-0229",2025-09-07,"Consultoria Analítica","Nordeste","Agronegócio","Website",66,10.5,12720,11384.4,6
+"DF-0230",2025-09-08,"Consultoria Analítica","Centro-Oeste","Saúde","Indicação",70,12.4,13200,11563.2,7
+"DF-0231",2025-09-09,"Desenvolvimento Shiny","Nordeste","Indústria","Website",37,7.4,15240,14112.24,7
+"DF-0232",2025-09-10,"Consultoria Analítica","Norte","Varejo","Website",60,8.2,12000,11016,10
+"DF-0233",2025-09-11,"Desenvolvimento Shiny","Norte","Finanças","Prospecção Ativa",68,10,18960,17064,9
+"DF-0234",2025-09-12,"Consultoria Analítica","Norte","Indústria","Indicação",80,0.5,14400,14328,6
+"DF-0235",2025-09-13,"Modelagem Preditiva","Sudeste","Indústria","LinkedIn",58,1.7,21760,21390.08,9
+"DF-0236",2025-09-14,"Auditoria de Dados","Nordeste","Saúde","Indicação",84,10.3,11380,10207.86,9
+"DF-0237",2025-09-15,"Consultoria Analítica","Sudeste","Saúde","Indicação",56,1.2,11520,11381.76,8
+"DF-0238",2025-09-16,"Auditoria de Dados","Centro-Oeste","Finanças","LinkedIn",59,4.7,8380,7986.14,8
+"DF-0239",2025-09-17,"Treinamento In-Company","Centro-Oeste","Saúde","Prospecção Ativa",62,11.5,6240,5522.4,7
+"DF-0240",2025-09-19,"Desenvolvimento Shiny","Norte","Varejo","Indicação",52,5.2,17040,16153.92,10
+"DF-0241",2025-09-20,"Consultoria Analítica","Norte","Indústria","Website",71,8,13320,12254.4,8
+"DF-0242",2025-09-21,"Treinamento In-Company","Centro-Oeste","Finanças","Indicação",40,13.4,3600,3117.6,9
+"DF-0243",2025-09-22,"Consultoria Analítica","Nordeste","Indústria","Indicação",60,6.7,12000,11196,9
+"DF-0244",2025-09-23,"Consultoria Analítica","Norte","Agronegócio","Indicação",52,4.9,11040,10499.04,NA
+"DF-0245",2025-09-24,"Desenvolvimento Shiny","Norte","Finanças","Website",52,0.7,17040,16920.72,8
+"DF-0246",2025-09-25,"Desenvolvimento Shiny","Nordeste","Indústria","Indicação",77,5.8,20040,18877.68,8
+"DF-0247",2025-09-26,"Consultoria Analítica","Sudeste","Saúde","Website",76,4.3,13920,13321.44,9
+"DF-0248",2025-09-27,"Consultoria Analítica","Sul","Indústria","Website",84,4.1,14880,14269.92,7
+"DF-0249",2025-09-28,"Desenvolvimento Shiny","Norte","Varejo","Website",56,8.6,17520,16013.28,9
+"DF-0250",2025-09-29,"Modelagem Preditiva","Nordeste","Indústria","Indicação",60,9.4,22000,19932,9
+"DF-0251",2025-10-01,"Desenvolvimento Shiny","Sudeste","Indústria","Indicação",37,4.7,15240,14523.72,9
+"DF-0252",2025-10-02,"Consultoria Analítica","Sudeste","Indústria","LinkedIn",54,10.3,11280,10118.16,8
+"DF-0253",2025-10-03,"Consultoria Analítica","Nordeste","Finanças","Indicação",86,8,15120,13910.4,7
+"DF-0254",2025-10-04,"Desenvolvimento Shiny","Sudeste","Varejo","Website",54,11.4,17280,15310.08,6
+"DF-0255",2025-10-05,"Consultoria Analítica","Sudeste","Saúde","Prospecção Ativa",43,9.7,9960,8993.88,7
+"DF-0256",2025-10-06,"Auditoria de Dados","Sudeste","Varejo","Indicação",61,7.5,8620,7973.5,9
+"DF-0257",2025-10-07,"Consultoria Analítica","Centro-Oeste","Saúde","LinkedIn",79,NA,14280,13323.24,9
+"DF-0258",2025-10-08,"Desenvolvimento Shiny","Sudeste","Finanças","Indicação",36,4.8,15120,14394.24,8
+"DF-0259",2025-10-09,"Treinamento In-Company","Norte","Finanças","Indicação",56,10,5520,4968,8
+"DF-0260",2025-10-10,"Treinamento In-Company","Norte","Agronegócio","Website",67,0.1,6840,6833.16,9
+"DF-0261",2025-10-11,"Treinamento In-Company","Norte","Saúde","Indicação",90,6.1,9600,9014.4,7
+"DF-0262",2025-10-13,"Consultoria Analítica","Sul","Indústria","Indicação",51,12.7,10920,9533.16,10
+"DF-0263",2025-10-14,"Desenvolvimento Shiny","Sudeste","Indústria","Prospecção Ativa",83,5.6,20760,19597.44,9
+"DF-0264",2025-10-15,"Modelagem Preditiva","Sudeste","Varejo","Indicação",54,12.6,21280,18598.72,8
+"DF-0265",2025-10-16,"Desenvolvimento Shiny","Centro-Oeste","Finanças","Prospecção Ativa",45,6,16200,15228,9
+"DF-0266",2025-10-17,"Consultoria Analítica","Centro-Oeste","Saúde","Prospecção Ativa",43,11,9960,8864.4,10
+"DF-0267",2025-10-18,"Auditoria de Dados","Norte","Agronegócio","Indicação",57,11.1,8140,7236.46,10
+"DF-0268",2025-10-19,"Consultoria Analítica","Nordeste","Saúde","Website",60,4.9,12000,11412,10
+"DF-0269",2025-10-20,"Modelagem Preditiva","Nordeste","Agronegócio","Indicação",55,11.9,21400,18853.4,9
+"DF-0270",2025-10-21,"Auditoria de Dados","Nordeste","Finanças","Prospecção Ativa",76,12.2,10420,9148.76,8
+"DF-0271",2025-10-22,"Consultoria Analítica","Nordeste","Finanças","Prospecção Ativa",63,14.9,12360,10518.36,9
+"DF-0272",2025-10-23,"Auditoria de Dados","Sudeste","Indústria","Website",58,13,8260,7186.2,8
+"DF-0273",2025-10-25,"Desenvolvimento Shiny","Nordeste","Varejo","Website",51,2.4,16920,16513.92,NA
+"DF-0274",2025-10-26,"Consultoria Analítica","Sudeste","Finanças","LinkedIn",41,8.9,9720,8854.92,10
+"DF-0275",2025-10-27,"Auditoria de Dados","Sul","Saúde","Website",31,3.6,5020,4839.28,10
+"DF-0276",2025-10-28,"Desenvolvimento Shiny","Sudeste","Saúde","Indicação",63,7.2,18360,17038.08,10
+"DF-0277",2025-10-29,"Desenvolvimento Shiny","Norte","Varejo","Website",60,NA,18000,16002,10
+"DF-0278",2025-10-30,"Desenvolvimento Shiny","Norte","Indústria","Website",80,0.4,20400,20318.4,10
+"DF-0279",2025-10-31,"Desenvolvimento Shiny","Sul","Finanças","Prospecção Ativa",64,14.2,18480,15855.84,10
+"DF-0280",2025-11-01,"Desenvolvimento Shiny","Norte","Finanças","Website",72,14,19440,16718.4,9
+"DF-0281",2025-11-02,"Desenvolvimento Shiny","Centro-Oeste","Indústria","Website",61,13.4,18120,15691.92,9
+"DF-0282",2025-11-03,"Consultoria Analítica","Centro-Oeste","Finanças","Indicação",48,9,10560,9609.6,8
+"DF-0283",2025-11-04,"Consultoria Analítica","Nordeste","Finanças","Prospecção Ativa",64,4.8,12480,11880.96,8
+"DF-0284",2025-11-06,"Modelagem Preditiva","Sudeste","Finanças","Indicação",65,9.8,22600,20385.2,8
+"DF-0285",2025-11-07,"Desenvolvimento Shiny","Centro-Oeste","Varejo","Website",48,3.7,16560,15947.28,9
+"DF-0286",2025-11-08,"Consultoria Analítica","Sudeste","Saúde","Website",60,12.6,12000,10488,9
+"DF-0287",2025-11-09,"Desenvolvimento Shiny","Sudeste","Indústria","LinkedIn",90,14.3,21600,18511.2,7
+"DF-0288",2025-11-10,"Consultoria Analítica","Centro-Oeste","Saúde","Website",43,6.8,9960,9282.72,10
+"DF-0289",2025-11-11,"Desenvolvimento Shiny","Nordeste","Varejo","Indicação",82,14.1,20640,17729.76,10
+"DF-0290",2025-11-12,"Consultoria Analítica","Sudeste","Saúde","Indicação",57,2.7,11640,11325.72,NA
+"DF-0291",2025-11-13,"Auditoria de Dados","Norte","Varejo","Website",82,8.8,11140,10159.68,7
+"DF-0292",2025-11-14,"Treinamento In-Company","Nordeste","Finanças","LinkedIn",47,6,4440,4173.6,8
+"DF-0293",2025-11-15,"Desenvolvimento Shiny","Centro-Oeste","Varejo","Prospecção Ativa",59,14.3,17880,15323.16,8
+"DF-0294",2025-11-17,"Desenvolvimento Shiny","Sudeste","Indústria","LinkedIn",65,2.3,18600,18172.2,8
+"DF-0295",2025-11-18,"Desenvolvimento Shiny","Centro-Oeste","Indústria","Website",58,7.5,17760,16428,NA
+"DF-0296",2025-11-19,"Consultoria Analítica","Sudeste","Varejo","Indicação",70,11.1,13200,11734.8,8
+"DF-0297",2025-11-20,"Auditoria de Dados","Nordeste","Saúde","Prospecção Ativa",57,3.1,8140,7887.66,8
+"DF-0298",2025-11-21,"Treinamento In-Company","Sudeste","Finanças","Indicação",78,6.1,8160,7662.24,8
+"DF-0299",2025-11-22,"Consultoria Analítica","Sul","Saúde","Prospecção Ativa",63,7.2,12360,11470.08,8
+"DF-0300",2025-11-23,"Consultoria Analítica","Sudeste","Finanças","Indicação",70,6.8,13200,12302.4,9
+"DF-0301",2025-11-24,"Desenvolvimento Shiny","Norte","Indústria","LinkedIn",42,8,15840,14572.8,9
+"DF-0302",2025-11-25,"Desenvolvimento Shiny","Norte","Agronegócio","Website",50,5.6,16800,15859.2,10
+"DF-0303",2025-11-26,"Consultoria Analítica","Sudeste","Finanças","Website",76,0.9,13920,13794.72,8
+"DF-0304",2025-11-27,"Desenvolvimento Shiny","Nordeste","Varejo","Prospecção Ativa",68,13,18960,16495.2,9
+"DF-0305",2025-11-29,"Auditoria de Dados","Nordeste","Varejo","Website",58,6.5,8260,7723.1,10
+"DF-0306",2025-11-30,"Modelagem Preditiva","Sudeste","Agronegócio","Website",58,1.6,21760,21411.84,8
+"DF-0307",2025-12-01,"Desenvolvimento Shiny","Nordeste","Indústria","Indicação",71,5.1,19320,18334.68,10
+"DF-0308",2025-12-02,"Consultoria Analítica","Sudeste","Agronegócio","Indicação",57,6.5,11640,10883.4,8
+"DF-0309",2025-12-03,"Desenvolvimento Shiny","Sudeste","Agronegócio","Prospecção Ativa",61,10.3,18120,16253.64,10
+"DF-0310",2025-12-04,"Desenvolvimento Shiny","Nordeste","Finanças","LinkedIn",35,0.9,15000,14865,9
+"DF-0311",2025-12-05,"Consultoria Analítica","Sudeste","Varejo","Indicação",87,4.5,15240,14554.2,8
+"DF-0312",2025-12-06,"Modelagem Preditiva","Norte","Indústria","Website",71,7.3,23320,21617.64,10
+"DF-0313",2025-12-07,"Desenvolvimento Shiny","Nordeste","Finanças","Website",72,10.3,19440,17437.68,10
+"DF-0314",2025-12-08,"Consultoria Analítica","Centro-Oeste","Finanças","Website",31,7.4,8520,7889.52,10
+"DF-0315",2025-12-09,"Consultoria Analítica","Sul","Finanças","Website",60,10.6,12000,10728,5
+"DF-0316",2025-12-11,"Modelagem Preditiva","Centro-Oeste","Finanças","Website",54,9.6,21280,19237.12,9
+"DF-0317",2025-12-12,"Consultoria Analítica","Norte","Varejo","Website",39,5.8,9480,8930.16,10
+"DF-0318",2025-12-13,"Treinamento In-Company","Sudeste","Saúde","Indicação",71,7.6,7320,6763.68,8
+"DF-0319",2025-12-14,"Modelagem Preditiva","Sudeste","Indústria","Indicação",79,NA,24280,22531.84,8
+"DF-0320",2025-12-15,"Modelagem Preditiva","Nordeste","Saúde","Prospecção Ativa",52,11.2,21040,18683.52,9
+"DF-0321",2025-12-16,"Desenvolvimento Shiny","Sudeste","Finanças","Website",57,14.9,17640,15011.64,6
+"DF-0322",2025-12-17,"Desenvolvimento Shiny","Centro-Oeste","Finanças","LinkedIn",86,7.4,21120,19557.12,7
+"DF-0323",2025-12-18,"Consultoria Analítica","Nordeste","Agronegócio","Website",35,14.1,9000,7731,9
+"DF-0324",2025-12-19,"Consultoria Analítica","Sudeste","Agronegócio","Indicação",71,8.1,13320,12241.08,10
+"DF-0325",2025-12-20,"Treinamento In-Company","Sudeste","Saúde","Prospecção Ativa",55,14.1,5400,4638.6,NA
+"DF-0326",2025-12-21,"Modelagem Preditiva","Norte","Indústria","Indicação",58,13.7,21760,18778.88,9
+"DF-0327",2025-12-23,"Desenvolvimento Shiny","Sudeste","Indústria","LinkedIn",51,7.8,16920,15600.24,7
+"DF-0328",2025-12-24,"Auditoria de Dados","Sudeste","Indústria","Indicação",76,12,10420,9169.6,10
+"DF-0329",2025-12-25,"Treinamento In-Company","Sudeste","Agronegócio","Prospecção Ativa",43,3,3960,3841.2,10
+"DF-0330",2025-12-26,"Auditoria de Dados","Sudeste","Finanças","LinkedIn",74,13.9,10180,8764.98,9
+"DF-0331",2025-12-27,"Modelagem Preditiva","Sudeste","Saúde","Indicação",81,10.7,24520,21896.36,8
+"DF-0332",2025-12-28,"Consultoria Analítica","Nordeste","Varejo","LinkedIn",35,11.5,9000,7965,10
+"DF-0333",2025-12-29,"Consultoria Analítica","Sudeste","Agronegócio","Website",43,7.9,9960,9173.16,8
+"DF-0334",2025-12-30,"Desenvolvimento Shiny","Nordeste","Agronegócio","Indicação",69,4.6,19080,18202.32,8
+"DF-0335",2025-12-31,"Treinamento In-Company","Centro-Oeste","Saúde","Website",46,15,4320,3672,6
+"DF-0336",2026-01-01,"Desenvolvimento Shiny","Centro-Oeste","Saúde","LinkedIn",50,8,16800,15456,9
+"DF-0337",2026-01-02,"Desenvolvimento Shiny","Sudeste","Varejo","Website",53,0.4,17160,17091.36,6
+"DF-0338",2026-01-04,"Desenvolvimento Shiny","Centro-Oeste","Varejo","LinkedIn",55,0.7,17400,17278.2,9
+"DF-0339",2026-01-05,"Auditoria de Dados","Norte","Saúde","Indicação",71,6.3,9820,9201.34,9
+"DF-0340",2026-01-06,"Consultoria Analítica","Sudeste","Saúde","Prospecção Ativa",51,8.7,10920,9969.96,10
+"DF-0341",2026-01-07,"Desenvolvimento Shiny","Sul","Indústria","Prospecção Ativa",61,14,18120,15583.2,10
+"DF-0342",2026-01-08,"Consultoria Analítica","Sul","Finanças","LinkedIn",71,6.7,13320,12427.56,9
+"DF-0343",2026-01-09,"Auditoria de Dados","Sudeste","Saúde","Indicação",37,0.3,5740,5722.78,8
+"DF-0344",2026-01-10,"Desenvolvimento Shiny","Centro-Oeste","Saúde","Prospecção Ativa",50,12.7,16800,14666.4,10
+"DF-0345",2026-01-11,"Consultoria Analítica","Nordeste","Finanças","Indicação",73,6,13560,12746.4,9
+"DF-0346",2026-01-12,"Consultoria Analítica","Sudeste","Agronegócio","Website",54,10.6,11280,10084.32,6
+"DF-0347",2026-01-13,"Modelagem Preditiva","Sudeste","Varejo","LinkedIn",22,9.5,17440,15783.2,9
+"DF-0348",2026-01-14,"Desenvolvimento Shiny","Nordeste","Finanças","LinkedIn",47,13,16440,14302.8,7
+"DF-0349",2026-01-16,"Auditoria de Dados","Sul","Indústria","LinkedIn",72,6.2,9940,9323.72,7
+"DF-0350",2026-01-17,"Modelagem Preditiva","Sudeste","Saúde","LinkedIn",54,14.8,21280,18130.56,8
+"DF-0351",2026-01-18,"Desenvolvimento Shiny","Nordeste","Varejo","LinkedIn",54,2.6,17280,16830.72,8
+"DF-0352",2026-01-19,"Treinamento In-Company","Sul","Saúde","Website",58,3,5760,5587.2,10
+"DF-0353",2026-01-20,"Consultoria Analítica","Sudeste","Varejo","Indicação",71,6.8,13320,12414.24,9
+"DF-0354",2026-01-21,"Consultoria Analítica","Nordeste","Finanças","Prospecção Ativa",53,6.9,11160,10389.96,8
+"DF-0355",2026-01-22,"Treinamento In-Company","Centro-Oeste","Indústria","Website",67,13.6,6840,5909.76,8
+"DF-0356",2026-01-23,"Desenvolvimento Shiny","Sudeste","Varejo","LinkedIn",69,7.2,19080,17706.24,8
+"DF-0357",2026-01-24,"Treinamento In-Company","Centro-Oeste","Varejo","Indicação",45,1.3,4200,4145.4,9
+"DF-0358",2026-01-25,"Modelagem Preditiva","Norte","Finanças","Prospecção Ativa",59,4.2,21880,20961.04,9
+"DF-0359",2026-01-27,"Desenvolvimento Shiny","Nordeste","Saúde","LinkedIn",52,13.8,17040,14688.48,8
+"DF-0360",2026-01-28,"Desenvolvimento Shiny","Norte","Varejo","Website",66,14.4,18720,16024.32,8
+"DF-0361",2026-01-29,"Treinamento In-Company","Norte","Saúde","Website",37,12.3,3240,2841.48,9
+"DF-0362",2026-01-30,"Treinamento In-Company","Centro-Oeste","Indústria","Prospecção Ativa",83,2.6,8760,8532.24,8
+"DF-0363",2026-01-31,"Consultoria Analítica","Sudeste","Varejo","LinkedIn",80,1.6,14400,14169.6,9
+"DF-0364",2026-02-01,"Modelagem Preditiva","Sudeste","Finanças","Website",47,6.3,20440,19152.28,9
+"DF-0365",2026-02-02,"Treinamento In-Company","Sudeste","Agronegócio","LinkedIn",50,1,4800,4752,8
+"DF-0366",2026-02-03,"Treinamento In-Company","Norte","Finanças","LinkedIn",46,9.5,4320,3909.6,8
+"DF-0367",2026-02-04,"Treinamento In-Company","Sudeste","Finanças","Indicação",58,7.7,5760,5316.48,8
+"DF-0368",2026-02-05,"Modelagem Preditiva","Sudeste","Varejo","LinkedIn",52,8.5,21040,19251.6,8
+"DF-0369",2026-02-06,"Desenvolvimento Shiny","Nordeste","Agronegócio","Website",62,9.2,18240,16561.92,9
+"DF-0370",2026-02-08,"Consultoria Analítica","Sudeste","Varejo","Prospecção Ativa",32,6.9,8640,8043.84,7
+"DF-0371",2026-02-09,"Consultoria Analítica","Sul","Finanças","Indicação",62,13.2,12240,10624.32,NA
+"DF-0372",2026-02-10,"Desenvolvimento Shiny","Norte","Saúde","LinkedIn",60,6.1,18000,16902,8
+"DF-0373",2026-02-11,"Auditoria de Dados","Sudeste","Finanças","LinkedIn",36,7.3,5620,5209.74,10
+"DF-0374",2026-02-12,"Consultoria Analítica","Sul","Finanças","Website",64,7.6,12480,11531.52,9
+"DF-0375",2026-02-13,"Treinamento In-Company","Nordeste","Finanças","LinkedIn",61,9.9,6120,5514.12,8
+"DF-0376",2026-02-14,"Modelagem Preditiva","Centro-Oeste","Varejo","Indicação",57,4.3,21640,20709.48,8
+"DF-0377",2026-02-15,"Consultoria Analítica","Sudeste","Finanças","Indicação",60,13.5,12000,10380,9
+"DF-0378",2026-02-16,"Consultoria Analítica","Nordeste","Varejo","Indicação",66,4.7,12720,12122.16,10
+"DF-0379",2026-02-17,"Consultoria Analítica","Norte","Finanças","Indicação",65,13.2,12600,10936.8,9
+"DF-0380",2026-02-18,"Auditoria de Dados","Centro-Oeste","Agronegócio","Indicação",54,12.2,7780,6830.84,9
+"DF-0381",2026-02-20,"Treinamento In-Company","Norte","Varejo","Indicação",77,11.9,8040,7083.24,7
+"DF-0382",2026-02-21,"Desenvolvimento Shiny","Sul","Agronegócio","LinkedIn",59,14,17880,15376.8,9
+"DF-0383",2026-02-22,"Desenvolvimento Shiny","Centro-Oeste","Varejo","Indicação",58,9.4,17760,16090.56,7
+"DF-0384",2026-02-23,"Consultoria Analítica","Sul","Varejo","Indicação",74,2.5,13680,13338,9
+"DF-0385",2026-02-24,"Treinamento In-Company","Norte","Indústria","Prospecção Ativa",75,9.7,7800,7043.4,8
+"DF-0386",2026-02-25,"Auditoria de Dados","Sudeste","Finanças","LinkedIn",49,7.1,7180,6670.22,9
+"DF-0387",2026-02-26,"Consultoria Analítica","Sudeste","Varejo","Website",45,13.3,10200,8843.4,7
+"DF-0388",2026-02-27,"Modelagem Preditiva","Sudeste","Saúde","Indicação",49,11.5,20680,18301.8,9
+"DF-0389",2026-02-28,"Consultoria Analítica","Sul","Varejo","Indicação",42,13,9840,8560.8,10
+"DF-0390",2026-03-01,"Consultoria Analítica","Sul","Finanças","LinkedIn",33,9.4,8760,7936.56,10
+"DF-0391",2026-03-02,"Auditoria de Dados","Sudeste","Finanças","LinkedIn",65,7.1,9100,8453.9,6
+"DF-0392",2026-03-04,"Desenvolvimento Shiny","Nordeste","Agronegócio","LinkedIn",58,14,17760,15273.6,7
+"DF-0393",2026-03-05,"Treinamento In-Company","Centro-Oeste","Varejo","Indicação",70,9.6,7200,6508.8,7
+"DF-0394",2026-03-06,"Consultoria Analítica","Nordeste","Saúde","Indicação",60,4.2,12000,11496,7
+"DF-0395",2026-03-07,"Treinamento In-Company","Nordeste","Varejo","Website",66,14.3,6720,5759.04,10
+"DF-0396",2026-03-08,"Desenvolvimento Shiny","Norte","Saúde","Indicação",53,5,17160,16302,10
+"DF-0397",2026-03-09,"Modelagem Preditiva","Nordeste","Finanças","Prospecção Ativa",46,13.9,20320,17495.52,9
+"DF-0398",2026-03-10,"Modelagem Preditiva","Sudeste","Varejo","Indicação",72,10.4,23440,21002.24,10
+"DF-0399",2026-03-11,"Treinamento In-Company","Sul","Saúde","Website",71,2.5,7320,7137,10
+"DF-0400",2026-03-12,"Consultoria Analítica","Centro-Oeste","Finanças","Indicação",34,5.3,8880,8409.36,9
+"DF-0401",2026-03-13,"Consultoria Analítica","Sudeste","Saúde","Prospecção Ativa",73,13.9,13560,11675.16,10
+"DF-0402",2026-03-14,"Desenvolvimento Shiny","Sudeste","Varejo","LinkedIn",33,14.7,14760,12590.28,7
+"DF-0403",2026-03-16,"Treinamento In-Company","Nordeste","Saúde","Prospecção Ativa",59,7,5880,5468.4,7
+"DF-0404",2026-03-17,"Desenvolvimento Shiny","Sudeste","Finanças","Website",54,4.6,17280,16485.12,10
+"DF-0405",2026-03-18,"Auditoria de Dados","Centro-Oeste","Varejo","Indicação",58,0.9,8260,8185.66,10
+"DF-0406",2026-03-19,"Consultoria Analítica","Norte","Varejo","Prospecção Ativa",76,9.6,13920,12583.68,10
+"DF-0407",2026-03-20,"Modelagem Preditiva","Sudeste","Finanças","Indicação",41,13.5,19720,17057.8,9
+"DF-0408",2026-03-21,"Consultoria Analítica","Sudeste","Saúde","Website",56,12.4,11520,10091.52,8
+"DF-0409",2026-03-22,"Consultoria Analítica","Nordeste","Varejo","Indicação",98,8,16560,15235.2,10
+"DF-0410",2026-03-23,"Desenvolvimento Shiny","Sudeste","Finanças","Prospecção Ativa",38,2.2,15360,15022.08,10
+"DF-0411",2026-03-24,"Consultoria Analítica","Nordeste","Finanças","LinkedIn",51,12.5,10920,9555,10
+"DF-0412",2026-03-25,"Treinamento In-Company","Sudeste","Finanças","Indicação",59,13,5880,5115.6,NA
+"DF-0413",2026-03-26,"Consultoria Analítica","Norte","Varejo","LinkedIn",63,14.6,12360,10555.44,9
+"DF-0414",2026-03-28,"Treinamento In-Company","Norte","Finanças","Website",52,1.2,5040,4979.52,9
+"DF-0415",2026-03-29,"Consultoria Analítica","Sul","Varejo","Prospecção Ativa",56,12.9,11520,10033.92,9
+"DF-0416",2026-03-30,"Consultoria Analítica","Sul","Finanças","Indicação",76,2.7,13920,13544.16,8
+"DF-0417",2026-03-31,"Consultoria Analítica","Norte","Indústria","Prospecção Ativa",57,5.4,11640,11011.44,7
+"DF-0418",2026-04-01,"Auditoria de Dados","Centro-Oeste","Varejo","Prospecção Ativa",64,14.8,8980,7650.96,9
+"DF-0419",2026-04-02,"Desenvolvimento Shiny","Sudeste","Finanças","Prospecção Ativa",66,6.7,18720,17465.76,10
+"DF-0420",2026-04-03,"Consultoria Analítica","Sudeste","Indústria","Website",66,12.9,12720,11079.12,10
+"DF-0421",2026-04-04,"Consultoria Analítica","Sul","Finanças","LinkedIn",67,2.4,12840,12531.84,9
+"DF-0422",2026-04-05,"Desenvolvimento Shiny","Norte","Finanças","Prospecção Ativa",61,2.8,18120,17612.64,8
+"DF-0423",2026-04-06,"Modelagem Preditiva","Norte","Agronegócio","Website",49,NA,20680,20038.92,8
+"DF-0424",2026-04-07,"Auditoria de Dados","Sudeste","Indústria","Website",59,0.3,8380,8354.86,8
+"DF-0425",2026-04-09,"Desenvolvimento Shiny","Centro-Oeste","Finanças","Indicação",46,10.3,16320,14639.04,9
+"DF-0426",2026-04-10,"Consultoria Analítica","Norte","Agronegócio","Prospecção Ativa",61,0.1,12120,12107.88,8
+"DF-0427",2026-04-11,"Desenvolvimento Shiny","Sudeste","Finanças","Indicação",55,5.7,17400,16408.2,10
+"DF-0428",2026-04-12,"Desenvolvimento Shiny","Nordeste","Varejo","Prospecção Ativa",58,14.6,17760,15167.04,8
+"DF-0429",2026-04-13,"Treinamento In-Company","Sudeste","Indústria","LinkedIn",44,11.2,4080,3623.04,9
+"DF-0430",2026-04-14,"Desenvolvimento Shiny","Nordeste","Agronegócio","Indicação",56,13.6,17520,15137.28,8
+"DF-0431",2026-04-15,"Desenvolvimento Shiny","Nordeste","Finanças","Prospecção Ativa",44,12,16080,14150.4,8
+"DF-0432",2026-04-16,"Desenvolvimento Shiny","Norte","Agronegócio","Indicação",54,3.2,17280,16727.04,10
+"DF-0433",2026-04-17,"Desenvolvimento Shiny","Norte","Agronegócio","Prospecção Ativa",68,9.6,18960,17139.84,8
+"DF-0434",2026-04-18,"Consultoria Analítica","Norte","Indústria","LinkedIn",64,1.3,12480,12317.76,9
+"DF-0435",2026-04-20,"Modelagem Preditiva","Sul","Finanças","Indicação",73,5.2,23560,22334.88,8
+"DF-0436",2026-04-21,"Consultoria Analítica","Sudeste","Saúde","Website",67,14.7,12840,10952.52,5
+"DF-0437",2026-04-22,"Desenvolvimento Shiny","Sudeste","Finanças","Indicação",62,1,18240,18057.6,9
+"DF-0438",2026-04-23,"Consultoria Analítica","Sudeste","Agronegócio","Website",75,12.2,13800,12116.4,9
+"DF-0439",2026-04-24,"Consultoria Analítica","Sudeste","Varejo","Prospecção Ativa",78,8.2,14160,12998.88,8
+"DF-0440",2026-04-25,"Desenvolvimento Shiny","Sul","Finanças","Website",39,3.7,15480,14907.24,10
+"DF-0441",2026-04-26,"Treinamento In-Company","Nordeste","Saúde","Indicação",73,2.2,7560,7393.68,7
+"DF-0442",2026-04-27,"Modelagem Preditiva","Nordeste","Varejo","Website",72,6.6,23440,21892.96,7
+"DF-0443",2026-04-28,"Desenvolvimento Shiny","Sudeste","Agronegócio","Indicação",74,11.1,19680,17495.52,8
+"DF-0444",2026-04-29,"Auditoria de Dados","Sudeste","Saúde","Indicação",46,14.1,6820,5858.38,7
+"DF-0445",2026-04-30,"Desenvolvimento Shiny","Sul","Finanças","LinkedIn",96,11.7,22320,19708.56,NA
+"DF-0446",2026-05-02,"Desenvolvimento Shiny","Nordeste","Saúde","Indicação",21,12.6,13320,11641.68,9
+"DF-0447",2026-05-03,"Consultoria Analítica","Sudeste","Saúde","Prospecção Ativa",60,9.4,12000,10872,8
+"DF-0448",2026-05-04,"Auditoria de Dados","Sul","Agronegócio","Indicação",62,1.9,8740,8573.94,9
+"DF-0449",2026-05-05,"Treinamento In-Company","Centro-Oeste","Saúde","Prospecção Ativa",58,2.2,5760,5633.28,8
+"DF-0450",2026-05-06,"Consultoria Analítica","Sudeste","Agronegócio","Website",71,9.3,13320,12081.24,9
+"DF-0451",2026-05-07,"Desenvolvimento Shiny","Sudeste","Agronegócio","LinkedIn",62,3.4,18240,17619.84,9
+"DF-0452",2026-05-08,"Desenvolvimento Shiny","Nordeste","Saúde","LinkedIn",48,12.8,16560,14440.32,9
+"DF-0453",2026-05-09,"Treinamento In-Company","Sudeste","Indústria","LinkedIn",81,4.7,8520,8119.56,9
+"DF-0454",2026-05-10,"Treinamento In-Company","Sul","Finanças","Prospecção Ativa",56,11.8,5520,4868.64,7
+"DF-0455",2026-05-11,"Desenvolvimento Shiny","Nordeste","Varejo","LinkedIn",69,8.4,19080,17477.28,10
+"DF-0456",2026-05-12,"Desenvolvimento Shiny","Centro-Oeste","Agronegócio","Indicação",50,12.1,16800,14767.2,7
+"DF-0457",2026-05-14,"Consultoria Analítica","Centro-Oeste","Varejo","Website",44,14.9,10080,8578.08,10
+"DF-0458",2026-05-15,"Treinamento In-Company","Sul","Varejo","LinkedIn",51,4.2,4920,4713.36,10
+"DF-0459",2026-05-16,"Auditoria de Dados","Centro-Oeste","Varejo","Indicação",44,2.7,6580,6402.34,9
+"DF-0460",2026-05-17,"Auditoria de Dados","Centro-Oeste","Varejo","Indicação",68,10.8,9460,8438.32,7
+"DF-0461",2026-05-18,"Desenvolvimento Shiny","Nordeste","Saúde","LinkedIn",37,0.2,15240,15209.52,9
+"DF-0462",2026-05-19,"Consultoria Analítica","Centro-Oeste","Saúde","Indicação",45,14.6,10200,8710.8,7
+"DF-0463",2026-05-20,"Auditoria de Dados","Sudeste","Finanças","Indicação",60,6.8,8500,7922,8
+"DF-0464",2026-05-21,"Consultoria Analítica","Sul","Varejo","Website",34,0.7,8880,8817.84,10
+"DF-0465",2026-05-22,"Consultoria Analítica","Sudeste","Saúde","LinkedIn",52,3,11040,10708.8,10
+"DF-0466",2026-05-23,"Treinamento In-Company","Norte","Saúde","Indicação",55,1.6,5400,5313.6,9
+"DF-0467",2026-05-24,"Desenvolvimento Shiny","Sudeste","Finanças","Indicação",80,0.2,20400,20359.2,8
+"DF-0468",2026-05-26,"Consultoria Analítica","Sudeste","Varejo","LinkedIn",56,14,11520,9907.2,9
+"DF-0469",2026-05-27,"Desenvolvimento Shiny","Sul","Finanças","Indicação",52,2.9,17040,16545.84,7
+"DF-0470",2026-05-28,"Auditoria de Dados","Sudeste","Finanças","Indicação",50,14.6,7300,6234.2,8
+"DF-0471",2026-05-29,"Desenvolvimento Shiny","Nordeste","Indústria","Prospecção Ativa",67,5.3,18840,17841.48,10
+"DF-0472",2026-05-30,"Consultoria Analítica","Nordeste","Varejo","Indicação",55,14,11400,9804,7
+"DF-0473",2026-05-31,"Modelagem Preditiva","Centro-Oeste","Finanças","Website",52,2,21040,20619.2,10
+"DF-0474",2026-06-01,"Modelagem Preditiva","Centro-Oeste","Indústria","Indicação",56,12.8,21520,18765.44,9
+"DF-0475",2026-06-02,"Desenvolvimento Shiny","Sudeste","Finanças","Prospecção Ativa",76,11.4,19920,17649.12,8
+"DF-0476",2026-06-03,"Desenvolvimento Shiny","Sudeste","Finanças","Website",84,9.6,20880,18875.52,10
+"DF-0477",2026-06-04,"Treinamento In-Company","Sudeste","Indústria","LinkedIn",50,12.3,4800,4209.6,9
+"DF-0478",2026-06-05,"Modelagem Preditiva","Nordeste","Finanças","Website",60,7.5,22000,20350,10
+"DF-0479",2026-06-07,"Consultoria Analítica","Sul","Saúde","Prospecção Ativa",55,5.6,11400,10761.6,9
+"DF-0480",2026-06-08,"Auditoria de Dados","Sudeste","Indústria","LinkedIn",88,13.4,11860,10270.76,9
+"DF-0481",2026-06-09,"Consultoria Analítica","Nordeste","Varejo","LinkedIn",69,1,13080,12949.2,8
+"DF-0482",2026-06-10,"Treinamento In-Company","Sudeste","Agronegócio","Indicação",33,1.1,2760,2729.64,8
+"DF-0483",2026-06-11,"Auditoria de Dados","Nordeste","Agronegócio","Indicação",53,10.9,7660,6825.06,6
+"DF-0484",2026-06-12,"Consultoria Analítica","Sul","Saúde","Indicação",26,14.3,7920,6787.44,8
+"DF-0485",2026-06-13,"Auditoria de Dados","Nordeste","Varejo","Website",59,NA,8380,8136.98,10
+"DF-0486",2026-06-14,"Desenvolvimento Shiny","Sudeste","Saúde","Indicação",71,6.5,19320,18064.2,7
+"DF-0487",2026-06-15,"Auditoria de Dados","Norte","Varejo","Prospecção Ativa",47,3,6940,6731.8,7
+"DF-0488",2026-06-16,"Consultoria Analítica","Sudeste","Agronegócio","LinkedIn",41,13.9,9720,8368.92,NA
+"DF-0489",2026-06-17,"Consultoria Analítica","Sudeste","Varejo","Prospecção Ativa",79,8.4,14280,13080.48,9
+"DF-0490",2026-06-19,"Consultoria Analítica","Norte","Saúde","LinkedIn",46,5.6,10320,9742.08,8
+"DF-0491",2026-06-20,"Modelagem Preditiva","Sul","Indústria","LinkedIn",74,2.5,23680,23088,10
+"DF-0492",2026-06-21,"Desenvolvimento Shiny","Sudeste","Varejo","Prospecção Ativa",63,14.6,18360,15679.44,9
+"DF-0493",2026-06-22,"Auditoria de Dados","Sul","Finanças","Indicação",73,5.8,10060,9476.52,9
+"DF-0494",2026-06-23,"Desenvolvimento Shiny","Norte","Finanças","LinkedIn",75,7.3,19800,18354.6,7
+"DF-0495",2026-06-24,"Desenvolvimento Shiny","Sudeste","Finanças","Prospecção Ativa",77,3.3,20040,19378.68,8
+"DF-0496",2026-06-25,"Consultoria Analítica","Sudeste","Saúde","Indicação",79,5,14280,13566,9
+"DF-0497",2026-06-26,"Auditoria de Dados","Nordeste","Saúde","Indicação",64,9.8,8980,8099.96,8
+"DF-0498",2026-06-27,"Desenvolvimento Shiny","Sudeste","Indústria","Indicação",63,11.3,18360,16285.32,10
+"DF-0499",2026-06-28,"Consultoria Analítica","Nordeste","Finanças","Indicação",46,3,10320,10010.4,7
+"DF-0500",2026-06-30,"Consultoria Analítica","Sudeste","Varejo","Prospecção Ativa",42,4.3,9840,9416.88,9

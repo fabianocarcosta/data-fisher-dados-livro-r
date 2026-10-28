@@ -1,0 +1,401 @@
+"id_cliente","genero","idade","escolaridade","renda_mensal","tempo_meses_cliente","nps","recomenda","churn"
+"CLI-001","Masculino",49,"Ensino Médio",17456.36,60,9,"Sim",1
+"CLI-002","Masculino",41,"Ensino Médio",7946.12,51,6,"Não",0
+"CLI-003","Masculino",35,"Ensino Médio",20525.18,59,9,"Sim",0
+"CLI-004","Masculino",28,"Graduação",7356.26,47,8,"Sim",0
+"CLI-005","Masculino",39,"Graduação",3936.98,53,7,"Sim",0
+"CLI-006","Masculino",46,"Graduação",13900.06,5,8,"Sim",1
+"CLI-007","Feminino",37,"Graduação",13796.56,2,9,"Não",0
+"CLI-008","Feminino",45,"Pós-Graduação",4780.86,17,8,"Sim",0
+"CLI-009","Masculino",57,"Pós-Graduação",6881.32,57,7,"Sim",0
+"CLI-010","Feminino",28,"Mestrado/Doutorado",NA,22,9,"Sim",0
+"CLI-011","Masculino",44,"Mestrado/Doutorado",5940.94,36,9,"Sim",0
+"CLI-012","Feminino",53,"Pós-Graduação",2623.61,46,3,"Sim",0
+"CLI-013","Masculino",27,"Ensino Médio",11516.39,48,8,"Sim",1
+"CLI-014","Feminino",48,"Graduação",11083.86,4,8,"Sim",0
+"CLI-015","Feminino",18,"Graduação",2905.08,15,9,"Sim",0
+"CLI-016","Feminino",43,"Graduação",6008.01,16,8,"Sim",0
+"CLI-017","Feminino",41,"Graduação",7058.96,46,2,"Sim",1
+"CLI-018","Feminino",31,"Graduação",4962.95,45,10,"Sim",1
+"CLI-019","Masculino",25,"Graduação",6306.23,58,6,"Sim",1
+"CLI-020","Masculino",60,"Graduação",6285.74,50,8,"Sim",0
+"CLI-021","Masculino",39,"Pós-Graduação",7655.02,35,7,"Não",0
+"CLI-022","Masculino",30,"Ensino Médio",3828.02,37,9,"Sim",0
+"CLI-023","Feminino",57,"Mestrado/Doutorado",5385.46,20,5,"Sim",0
+"CLI-024","Feminino",48,"Mestrado/Doutorado",4736.92,57,7,"Não",0
+"CLI-025","Masculino",38,"Graduação",5421.39,44,4,"Sim",0
+"CLI-026","Feminino",45,"Graduação",4471.67,1,7,"Sim",0
+"CLI-027","Feminino",39,"Pós-Graduação",7557.38,40,9,"Sim",0
+"CLI-028","Masculino",34,"Ensino Médio",3459.45,36,8,"Sim",0
+"CLI-029","Feminino",35,"Pós-Graduação",8118.87,29,9,"Sim",0
+"CLI-030","Feminino",37,"Graduação",9292.12,29,8,"Sim",0
+"CLI-031","Feminino",29,"Mestrado/Doutorado",2658.96,2,6,"Não",0
+"CLI-032","Masculino",38,"Ensino Médio",NA,10,9,"Sim",0
+"CLI-033","Feminino",59,"Graduação",11225.68,40,8,"Sim",0
+"CLI-034","Masculino",24,"Pós-Graduação",14517.7,18,2,"Sim",0
+"CLI-035","Feminino",39,"Graduação",7420.42,31,7,"Sim",1
+"CLI-036","Feminino",47,"Graduação",23160.55,36,8,"Sim",0
+"CLI-037","Masculino",30,"Pós-Graduação",10488.1,38,7,"Não",0
+"CLI-038","Feminino",58,"Ensino Médio",7584.94,53,10,"Não",1
+"CLI-039","Masculino",20,"Graduação",6574.13,43,10,"Sim",0
+"CLI-040","Masculino",29,"Mestrado/Doutorado",3692.68,36,10,"Não",0
+"CLI-041","Feminino",21,"Graduação",9022.21,35,2,"Não",1
+"CLI-042","Feminino",20,"Mestrado/Doutorado",6793.58,45,8,"Sim",0
+"CLI-043","Masculino",31,"Mestrado/Doutorado",15775.56,46,10,"Sim",0
+"CLI-044","Masculino",24,"Graduação",9456.99,11,1,"Sim",0
+"CLI-045","Masculino",29,"Pós-Graduação",4329,34,10,"Sim",0
+"CLI-046","Feminino",59,"Ensino Médio",4043.17,20,10,"Sim",0
+"CLI-047","Masculino",36,"Graduação",12673.36,45,6,"Sim",0
+"CLI-048","Feminino",51,"Graduação",8413.2,30,9,"Sim",0
+"CLI-049","Masculino",22,"Pós-Graduação",5119.51,2,10,"Sim",0
+"CLI-050","Feminino",35,"Pós-Graduação",4650.39,34,7,"Sim",1
+"CLI-051","Feminino",33,"Graduação",2500,49,9,"Sim",0
+"CLI-052","Feminino",59,"Ensino Médio",8465.36,42,4,"Sim",1
+"CLI-053","Feminino",34,"Graduação",8136.33,29,10,"Sim",0
+"CLI-054","Masculino",43,"Pós-Graduação",15428.95,26,9,"Não",0
+"CLI-055","Masculino",45,"Pós-Graduação",17798.36,53,9,"Sim",0
+"CLI-056","Masculino",40,"Graduação",3422.12,47,2,"Sim",0
+"CLI-057","Feminino",33,"Mestrado/Doutorado",5786.65,1,10,"Sim",0
+"CLI-058","Feminino",44,"Pós-Graduação",4115.59,37,7,"Sim",0
+"CLI-059","Masculino",46,"Mestrado/Doutorado",7146.42,59,8,"Sim",0
+"CLI-060","Masculino",31,"Graduação",13872.37,6,8,"Sim",0
+"CLI-061","Masculino",40,"Graduação",6102.21,31,9,"Sim",0
+"CLI-062","Masculino",30,"Pós-Graduação",8309.72,39,5,"Sim",0
+"CLI-063","Masculino",43,"Graduação",32207.48,57,8,"Sim",0
+"CLI-064","Masculino",35,"Graduação",4607.43,4,9,"Sim",1
+"CLI-065","Feminino",27,"Mestrado/Doutorado",6472.26,41,8,"Sim",1
+"CLI-066","Feminino",43,"Graduação",3423.79,16,3,"Sim",0
+"CLI-067","Feminino",34,"Pós-Graduação",2889.61,48,4,"Sim",0
+"CLI-068","Feminino",46,"Graduação",NA,37,8,"Sim",0
+"CLI-069","Feminino",25,"Graduação",16084.48,53,7,"Sim",0
+"CLI-070","Feminino",28,"Ensino Médio",3935.63,7,9,"Sim",0
+"CLI-071","Masculino",33,"Graduação",13255.39,11,6,"Sim",0
+"CLI-072","Masculino",44,"Pós-Graduação",9196.96,28,8,"Não",0
+"CLI-073","Feminino",37,"Graduação",7837.36,45,7,"Sim",0
+"CLI-074","Feminino",42,"Graduação",NA,28,10,"Sim",0
+"CLI-075","Feminino",31,"Pós-Graduação",6975.59,35,9,"Sim",0
+"CLI-076","Masculino",21,"Pós-Graduação",9625.45,28,9,"Sim",0
+"CLI-077","Feminino",41,"Pós-Graduação",8299.83,13,7,"Sim",0
+"CLI-078","Feminino",35,"Graduação",3361.91,12,9,"Sim",0
+"CLI-079","Masculino",55,"Pós-Graduação",6917.03,2,6,"Não",0
+"CLI-080","Masculino",36,"Pós-Graduação",10725.12,44,10,"Sim",0
+"CLI-081","Feminino",47,"Graduação",6970.05,43,9,"Sim",0
+"CLI-082","Feminino",32,"Mestrado/Doutorado",7701.34,46,5,"Sim",0
+"CLI-083","Feminino",36,"Graduação",5505.47,43,9,"Sim",0
+"CLI-084","Masculino",50,"Graduação",15318.94,22,8,"Sim",1
+"CLI-085","Masculino",32,"Pós-Graduação",2500,36,9,"Sim",1
+"CLI-086","Feminino",40,"Pós-Graduação",4541.72,40,7,"Sim",0
+"CLI-087","Masculino",44,"Pós-Graduação",14936.89,19,7,"Sim",0
+"CLI-088","Feminino",45,"Graduação",3997.06,13,6,"Não",0
+"CLI-089","Feminino",26,"Graduação",10709.4,27,10,"Sim",1
+"CLI-090","Masculino",33,"Pós-Graduação",18796.52,31,9,"Sim",0
+"CLI-091","Feminino",35,"Mestrado/Doutorado",4202.33,31,5,"Sim",0
+"CLI-092","Masculino",52,"Graduação",7665.39,47,2,"Sim",0
+"CLI-093","Feminino",43,"Graduação",15199.34,40,8,"Sim",0
+"CLI-094","Masculino",32,"Graduação",7214.43,36,9,"Não",0
+"CLI-095","Feminino",39,"Graduação",10266.25,56,6,"Sim",0
+"CLI-096","Masculino",40,"Pós-Graduação",NA,34,10,"Sim",0
+"CLI-097","Feminino",32,"Graduação",22597.13,40,8,"Não",0
+"CLI-098","Feminino",41,"Graduação",2500,55,2,"Sim",0
+"CLI-099","Feminino",48,"Mestrado/Doutorado",5522.46,45,7,"Sim",0
+"CLI-100","Feminino",50,"Graduação",3437.78,14,10,"Sim",0
+"CLI-101","Feminino",44,"Pós-Graduação",9496.29,48,9,"Sim",0
+"CLI-102","Masculino",33,"Graduação",12793.94,47,10,"Sim",0
+"CLI-103","Feminino",43,"Pós-Graduação",17687.9,21,9,"Não",0
+"CLI-104","Feminino",47,"Ensino Médio",3732.37,36,9,"Sim",0
+"CLI-105","Masculino",44,"Graduação",19075.56,24,8,"Sim",0
+"CLI-106","Feminino",36,"Pós-Graduação",7916.98,15,9,"Sim",0
+"CLI-107","Masculino",49,"Pós-Graduação",4542.5,47,7,"Sim",0
+"CLI-108","Feminino",36,"Pós-Graduação",10854.75,29,8,"Não",0
+"CLI-109","Feminino",44,"Graduação",12442.5,43,4,"Sim",0
+"CLI-110","Masculino",34,"Ensino Médio",3161.51,22,8,"Não",1
+"CLI-111","Feminino",36,"Mestrado/Doutorado",3134.22,20,9,"Sim",0
+"CLI-112","Feminino",36,"Pós-Graduação",7248.36,45,2,"Sim",0
+"CLI-113","Masculino",57,"Pós-Graduação",8568.41,41,8,"Sim",0
+"CLI-114","Feminino",55,"Graduação",5504.79,40,8,"Sim",0
+"CLI-115","Masculino",36,"Graduação",4682.82,54,8,"Sim",0
+"CLI-116","Masculino",36,"Pós-Graduação",12687.47,3,9,"Não",0
+"CLI-117","Masculino",49,"Graduação",16325.95,36,5,"Sim",0
+"CLI-118","Feminino",39,"Graduação",6094.55,57,6,"Sim",0
+"CLI-119","Masculino",29,"Ensino Médio",11752.37,34,6,"Sim",1
+"CLI-120","Masculino",50,"Graduação",4885.89,2,10,"Não",0
+"CLI-121","Masculino",38,"Graduação",5293.82,48,8,"Sim",0
+"CLI-122","Feminino",34,"Graduação",9790.92,45,10,"Sim",0
+"CLI-123","Feminino",35,"Pós-Graduação",7344.84,54,8,"Sim",0
+"CLI-124","Feminino",41,"Pós-Graduação",6838.17,14,3,"Sim",0
+"CLI-125","Feminino",36,"Graduação",3396.62,20,5,"Sim",0
+"CLI-126","Feminino",49,"Mestrado/Doutorado",7092.96,52,5,"Sim",0
+"CLI-127","Feminino",45,"Graduação",4493.16,53,7,"Sim",0
+"CLI-128","Masculino",44,"Pós-Graduação",4222.01,40,4,"Sim",0
+"CLI-129","Feminino",18,"Pós-Graduação",16224.08,47,2,"Sim",0
+"CLI-130","Feminino",47,"Mestrado/Doutorado",3413.67,55,8,"Sim",0
+"CLI-131","Feminino",31,"Ensino Médio",4934.43,45,8,"Sim",0
+"CLI-132","Feminino",37,"Graduação",2500,26,8,"Sim",0
+"CLI-133","Masculino",32,"Pós-Graduação",4018.71,54,8,"Sim",0
+"CLI-134","Feminino",37,"Graduação",4606.93,1,10,"Sim",1
+"CLI-135","Feminino",18,"Pós-Graduação",11211.8,30,8,"Sim",1
+"CLI-136","Masculino",27,"Ensino Médio",5219.21,25,9,"Sim",0
+"CLI-137","Masculino",50,"Ensino Médio",12690.43,17,8,"Não",0
+"CLI-138","Masculino",30,"Graduação",17582.85,33,9,"Não",0
+"CLI-139","Masculino",26,"Pós-Graduação",5540.17,37,2,"Sim",1
+"CLI-140","Feminino",46,"Graduação",6592.41,53,7,"Sim",0
+"CLI-141","Feminino",37,"Pós-Graduação",5056.28,28,8,"Sim",0
+"CLI-142","Feminino",38,"Graduação",11776.02,8,8,"Não",0
+"CLI-143","Masculino",34,"Pós-Graduação",5996.17,43,9,"Sim",0
+"CLI-144","Feminino",32,"Graduação",3726.96,24,10,"Sim",0
+"CLI-145","Masculino",50,"Graduação",6055.1,43,9,"Sim",0
+"CLI-146","Feminino",32,"Graduação",8405.01,20,4,"Sim",0
+"CLI-147","Feminino",27,"Mestrado/Doutorado",2762.81,2,3,"Sim",1
+"CLI-148","Masculino",31,"Pós-Graduação",8963.17,56,9,"Sim",0
+"CLI-149","Masculino",48,"Graduação",11684.87,9,9,"Sim",0
+"CLI-150","Masculino",20,"Graduação",5326.66,4,2,"Não",0
+"CLI-151","Feminino",38,"Graduação",5863.9,32,9,"Sim",0
+"CLI-152","Masculino",36,"Graduação",3334.08,51,8,"Sim",0
+"CLI-153","Feminino",22,"Graduação",4716.68,1,7,"Não",0
+"CLI-154","Feminino",43,"Graduação",11884.72,53,6,"Sim",0
+"CLI-155","Feminino",37,"Graduação",6526.89,25,8,"Sim",0
+"CLI-156","Masculino",34,"Graduação",6166.88,28,9,"Não",0
+"CLI-157","Feminino",52,"Graduação",2707.12,5,3,"Sim",0
+"CLI-158","Masculino",29,"Ensino Médio",10193.13,48,7,"Sim",0
+"CLI-159","Feminino",36,"Ensino Médio",6751.2,43,8,"Sim",0
+"CLI-160","Feminino",45,"Pós-Graduação",6155.79,42,9,"Sim",0
+"CLI-161","Feminino",24,"Graduação",4040.7,43,4,"Sim",0
+"CLI-162","Feminino",31,"Graduação",2891.27,15,9,"Sim",0
+"CLI-163","Feminino",38,"Pós-Graduação",2500,3,8,"Sim",0
+"CLI-164","Feminino",41,"Graduação",5560.95,15,9,"Sim",0
+"CLI-165","Masculino",25,"Graduação",3612.4,38,9,"Sim",0
+"CLI-166","Masculino",52,"Graduação",6530.73,2,10,"Sim",0
+"CLI-167","Feminino",37,"Graduação",5605.05,17,7,"Não",0
+"CLI-168","Feminino",25,"Graduação",10430.17,57,6,"Sim",0
+"CLI-169","Masculino",26,"Graduação",6505.29,60,9,"Não",0
+"CLI-170","Masculino",46,"Graduação",8657.75,54,8,"Sim",0
+"CLI-171","Feminino",53,"Pós-Graduação",2500,10,8,"Sim",0
+"CLI-172","Masculino",31,"Graduação",7590.51,54,8,"Não",0
+"CLI-173","Masculino",39,"Ensino Médio",8607.39,31,9,"Não",0
+"CLI-174","Feminino",48,"Ensino Médio",8677.75,30,8,"Sim",0
+"CLI-175","Masculino",35,"Pós-Graduação",6935.02,38,6,"Sim",0
+"CLI-176","Feminino",36,"Ensino Médio",2500,18,6,"Sim",0
+"CLI-177","Feminino",28,"Pós-Graduação",5927.07,7,2,"Sim",0
+"CLI-178","Masculino",38,"Pós-Graduação",2500,4,5,"Sim",0
+"CLI-179","Masculino",53,"Graduação",4618.26,37,10,"Não",0
+"CLI-180","Masculino",55,"Graduação",7149.73,18,9,"Não",0
+"CLI-181","Masculino",29,"Graduação",10284.39,2,7,"Sim",0
+"CLI-182","Masculino",44,"Graduação",8099.68,12,8,"Sim",0
+"CLI-183","Masculino",52,"Pós-Graduação",4584.49,39,10,"Sim",0
+"CLI-184","Feminino",43,"Pós-Graduação",7973.67,6,5,"Sim",0
+"CLI-185","Feminino",29,"Graduação",12879.86,57,3,"Não",0
+"CLI-186","Masculino",45,"Graduação",4579.86,38,3,"Não",0
+"CLI-187","Masculino",26,"Graduação",5957.4,49,9,"Sim",1
+"CLI-188","Masculino",41,"Graduação",7478.35,20,7,"Sim",0
+"CLI-189","Masculino",48,"Pós-Graduação",5093.41,48,9,"Sim",0
+"CLI-190","Masculino",35,"Ensino Médio",5482.26,41,8,"Sim",0
+"CLI-191","Feminino",33,"Mestrado/Doutorado",11445.18,8,7,"Sim",0
+"CLI-192","Feminino",28,"Graduação",12224.96,14,6,"Sim",0
+"CLI-193","Masculino",40,"Mestrado/Doutorado",5190.16,37,5,"Sim",0
+"CLI-194","Masculino",50,"Graduação",13038.9,59,10,"Sim",0
+"CLI-195","Masculino",35,"Graduação",2908.69,1,9,"Sim",0
+"CLI-196","Masculino",52,"Pós-Graduação",3595.01,60,7,"Sim",1
+"CLI-197","Masculino",35,"Mestrado/Doutorado",6979.82,30,10,"Sim",0
+"CLI-198","Masculino",40,"Pós-Graduação",5961.03,56,7,"Sim",0
+"CLI-199","Feminino",35,"Mestrado/Doutorado",7264.47,21,10,"Sim",0
+"CLI-200","Feminino",43,"Mestrado/Doutorado",5367.7,28,3,"Não",1
+"CLI-201","Masculino",44,"Graduação",2872.71,30,9,"Sim",0
+"CLI-202","Masculino",39,"Graduação",8229.76,45,7,"Sim",0
+"CLI-203","Feminino",31,"Pós-Graduação",5734.49,19,8,"Sim",0
+"CLI-204","Feminino",49,"Graduação",12853.26,6,8,"Sim",0
+"CLI-205","Feminino",29,"Pós-Graduação",14527.45,5,9,"Sim",0
+"CLI-206","Masculino",40,"Ensino Médio",5630.28,6,5,"Sim",1
+"CLI-207","Masculino",22,"Ensino Médio",NA,33,8,"Sim",0
+"CLI-208","Masculino",45,"Graduação",15077.74,20,9,"Não",0
+"CLI-209","Feminino",32,"Graduação",2500,31,10,"Sim",0
+"CLI-210","Masculino",39,"Pós-Graduação",10439.05,57,8,"Sim",0
+"CLI-211","Masculino",48,"Graduação",2836.82,30,8,"Sim",0
+"CLI-212","Masculino",55,"Pós-Graduação",7973.38,25,9,"Sim",0
+"CLI-213","Masculino",35,"Graduação",5045.78,28,7,"Não",0
+"CLI-214","Feminino",44,"Mestrado/Doutorado",5973.71,50,10,"Sim",1
+"CLI-215","Feminino",49,"Ensino Médio",10799.99,35,6,"Sim",0
+"CLI-216","Feminino",26,"Ensino Médio",6141.41,29,6,"Sim",0
+"CLI-217","Masculino",46,"Pós-Graduação",2821.4,9,7,"Sim",0
+"CLI-218","Masculino",22,"Pós-Graduação",13354.3,22,9,"Sim",1
+"CLI-219","Masculino",38,"Graduação",3352.67,5,7,"Sim",0
+"CLI-220","Masculino",33,"Graduação",14813.55,35,1,"Sim",0
+"CLI-221","Masculino",43,"Graduação",9639.98,18,3,"Sim",0
+"CLI-222","Masculino",27,"Pós-Graduação",7967.7,27,9,"Sim",0
+"CLI-223","Feminino",47,"Mestrado/Doutorado",2500,27,9,"Sim",0
+"CLI-224","Feminino",63,"Ensino Médio",2689.58,56,9,"Sim",0
+"CLI-225","Feminino",35,"Graduação",2500,49,7,"Sim",0
+"CLI-226","Masculino",50,"Ensino Médio",2500,7,8,"Não",0
+"CLI-227","Masculino",18,"Pós-Graduação",2677.18,36,3,"Sim",0
+"CLI-228","Masculino",44,"Pós-Graduação",7898.03,33,7,"Sim",0
+"CLI-229","Masculino",32,"Mestrado/Doutorado",6482.92,3,10,"Não",0
+"CLI-230","Feminino",45,"Graduação",4076.01,30,8,"Sim",0
+"CLI-231","Masculino",50,"Pós-Graduação",11931.77,22,8,"Sim",0
+"CLI-232","Feminino",26,"Pós-Graduação",4313.84,27,7,"Sim",0
+"CLI-233","Masculino",35,"Pós-Graduação",5257.77,18,8,"Sim",1
+"CLI-234","Masculino",47,"Graduação",4923.53,16,9,"Sim",0
+"CLI-235","Feminino",46,"Graduação",2935.32,49,9,"Não",0
+"CLI-236","Feminino",31,"Graduação",19953.24,46,6,"Sim",0
+"CLI-237","Masculino",39,"Pós-Graduação",16361.31,28,9,"Sim",0
+"CLI-238","Masculino",18,"Graduação",2578.86,5,10,"Sim",1
+"CLI-239","Feminino",36,"Ensino Médio",5546.65,50,9,"Não",0
+"CLI-240","Feminino",38,"Mestrado/Doutorado",2500,47,2,"Sim",0
+"CLI-241","Feminino",54,"Pós-Graduação",8340.68,44,2,"Sim",0
+"CLI-242","Feminino",44,"Graduação",7096.04,2,7,"Sim",1
+"CLI-243","Feminino",37,"Graduação",4988.19,5,3,"Não",0
+"CLI-244","Masculino",47,"Mestrado/Doutorado",2500,56,10,"Não",1
+"CLI-245","Feminino",41,"Graduação",4486.18,56,10,"Sim",0
+"CLI-246","Feminino",45,"Graduação",12811.74,46,10,"Sim",0
+"CLI-247","Masculino",33,"Graduação",2500,21,9,"Sim",0
+"CLI-248","Feminino",46,"Graduação",3741.15,32,7,"Sim",0
+"CLI-249","Feminino",44,"Ensino Médio",6968.49,54,9,"Sim",0
+"CLI-250","Masculino",46,"Ensino Médio",12270.62,1,9,"Não",1
+"CLI-251","Feminino",37,"Pós-Graduação",4661.9,40,9,"Não",0
+"CLI-252","Masculino",47,"Graduação",NA,28,9,"Sim",0
+"CLI-253","Masculino",28,"Mestrado/Doutorado",27922.44,44,9,"Sim",0
+"CLI-254","Masculino",29,"Mestrado/Doutorado",3703.2,15,5,"Sim",1
+"CLI-255","Feminino",34,"Ensino Médio",14833.22,40,10,"Sim",0
+"CLI-256","Masculino",49,"Graduação",3791.41,53,10,"Sim",0
+"CLI-257","Feminino",46,"Graduação",7375.12,8,9,"Sim",0
+"CLI-258","Feminino",47,"Graduação",4491.65,4,9,"Sim",0
+"CLI-259","Masculino",34,"Graduação",6401.45,46,9,"Sim",0
+"CLI-260","Feminino",48,"Pós-Graduação",6011.67,4,9,"Sim",0
+"CLI-261","Masculino",38,"Pós-Graduação",2964.35,47,10,"Sim",0
+"CLI-262","Masculino",31,"Graduação",6165.84,25,10,"Sim",0
+"CLI-263","Feminino",31,"Pós-Graduação",6481.19,10,7,"Sim",0
+"CLI-264","Masculino",39,"Graduação",10523.54,29,4,"Sim",1
+"CLI-265","Feminino",55,"Graduação",4357,10,9,"Sim",0
+"CLI-266","Feminino",44,"Graduação",18844.62,17,10,"Sim",1
+"CLI-267","Masculino",36,"Graduação",9489.42,53,2,"Não",0
+"CLI-268","Feminino",34,"Graduação",3856.64,26,10,"Sim",0
+"CLI-269","Masculino",30,"Pós-Graduação",3643.01,48,10,"Sim",1
+"CLI-270","Masculino",19,"Graduação",11280.63,24,8,"Sim",0
+"CLI-271","Masculino",41,"Graduação",7055.67,57,8,"Sim",0
+"CLI-272","Feminino",23,"Graduação",3013.71,19,9,"Sim",0
+"CLI-273","Masculino",52,"Graduação",2500,36,8,"Sim",0
+"CLI-274","Masculino",37,"Graduação",10307.85,16,8,"Sim",0
+"CLI-275","Masculino",39,"Ensino Médio",6792.25,59,8,"Sim",1
+"CLI-276","Masculino",37,"Ensino Médio",12016.18,27,7,"Sim",0
+"CLI-277","Feminino",47,"Graduação",3539.73,13,10,"Sim",0
+"CLI-278","Feminino",43,"Graduação",12296.01,50,8,"Sim",0
+"CLI-279","Feminino",37,"Graduação",4536.11,57,9,"Não",0
+"CLI-280","Masculino",51,"Ensino Médio",4052.15,58,10,"Sim",0
+"CLI-281","Masculino",47,"Mestrado/Doutorado",3410.89,24,10,"Sim",1
+"CLI-282","Masculino",39,"Graduação",7174.83,51,8,"Sim",0
+"CLI-283","Masculino",28,"Graduação",3560.7,21,10,"Não",0
+"CLI-284","Masculino",49,"Ensino Médio",12196.48,32,10,"Não",0
+"CLI-285","Feminino",45,"Graduação",5660.28,21,2,"Sim",0
+"CLI-286","Masculino",35,"Graduação",8789.07,8,5,"Sim",0
+"CLI-287","Feminino",40,"Graduação",7550.28,10,9,"Sim",0
+"CLI-288","Masculino",25,"Pós-Graduação",4516.19,49,6,"Sim",0
+"CLI-289","Masculino",46,"Pós-Graduação",3297.54,21,7,"Sim",0
+"CLI-290","Masculino",21,"Ensino Médio",5577.98,56,10,"Sim",0
+"CLI-291","Feminino",45,"Graduação",3201.73,22,10,"Não",1
+"CLI-292","Feminino",37,"Graduação",3129.85,26,9,"Sim",0
+"CLI-293","Masculino",41,"Pós-Graduação",7846.72,25,8,"Sim",0
+"CLI-294","Feminino",31,"Pós-Graduação",5698.38,26,7,"Sim",1
+"CLI-295","Masculino",42,"Graduação",12236.67,18,7,"Sim",0
+"CLI-296","Feminino",46,"Pós-Graduação",11357.98,54,10,"Sim",0
+"CLI-297","Feminino",35,"Pós-Graduação",2778.28,40,3,"Sim",0
+"CLI-298","Masculino",34,"Graduação",11576.51,35,9,"Sim",0
+"CLI-299","Feminino",38,"Pós-Graduação",13163.28,56,9,"Sim",0
+"CLI-300","Feminino",32,"Pós-Graduação",8193.2,59,5,"Sim",0
+"CLI-301","Feminino",34,"Graduação",3224.85,8,6,"Não",0
+"CLI-302","Feminino",56,"Graduação",8587.66,29,5,"Não",0
+"CLI-303","Masculino",35,"Graduação",13541.44,41,8,"Não",0
+"CLI-304","Masculino",27,"Mestrado/Doutorado",5069.65,4,9,"Não",0
+"CLI-305","Masculino",18,"Graduação",8122.8,27,9,"Sim",0
+"CLI-306","Feminino",32,"Ensino Médio",15246.68,51,1,"Sim",0
+"CLI-307","Masculino",32,"Graduação",12646.58,39,8,"Sim",0
+"CLI-308","Feminino",35,"Graduação",5990.97,39,9,"Sim",0
+"CLI-309","Feminino",28,"Ensino Médio",17161.66,10,8,"Sim",1
+"CLI-310","Feminino",42,"Graduação",6150.72,24,6,"Sim",0
+"CLI-311","Feminino",18,"Pós-Graduação",3777.32,3,9,"Sim",0
+"CLI-312","Feminino",46,"Pós-Graduação",5346.49,7,8,"Sim",0
+"CLI-313","Feminino",39,"Graduação",9867.82,41,7,"Sim",0
+"CLI-314","Feminino",50,"Graduação",10883.31,49,10,"Sim",0
+"CLI-315","Masculino",44,"Graduação",12629.78,15,6,"Sim",1
+"CLI-316","Feminino",53,"Graduação",12462.05,44,9,"Sim",0
+"CLI-317","Masculino",39,"Graduação",7243.79,45,8,"Sim",0
+"CLI-318","Masculino",41,"Pós-Graduação",7580.67,37,8,"Não",0
+"CLI-319","Feminino",25,"Mestrado/Doutorado",5965.81,3,6,"Sim",0
+"CLI-320","Masculino",36,"Pós-Graduação",7242.13,56,8,"Sim",0
+"CLI-321","Feminino",24,"Graduação",17093.4,45,2,"Sim",0
+"CLI-322","Masculino",48,"Mestrado/Doutorado",2682.42,9,7,"Não",0
+"CLI-323","Masculino",38,"Graduação",15259.73,24,7,"Não",0
+"CLI-324","Feminino",18,"Graduação",5663.11,35,7,"Sim",0
+"CLI-325","Feminino",42,"Graduação",5601.66,60,7,"Sim",0
+"CLI-326","Feminino",41,"Graduação",NA,25,6,"Sim",0
+"CLI-327","Feminino",44,"Graduação",3902.73,13,7,"Sim",0
+"CLI-328","Feminino",59,"Graduação",10244.31,42,7,"Sim",0
+"CLI-329","Feminino",41,"Ensino Médio",7378.32,56,10,"Sim",0
+"CLI-330","Feminino",49,"Graduação",7395.23,41,10,"Sim",0
+"CLI-331","Masculino",36,"Graduação",5087.85,51,10,"Sim",0
+"CLI-332","Masculino",34,"Graduação",10061.53,28,10,"Sim",0
+"CLI-333","Feminino",44,"Graduação",10765.11,17,8,"Não",0
+"CLI-334","Masculino",46,"Ensino Médio",4826.92,5,2,"Não",0
+"CLI-335","Feminino",31,"Graduação",5734.7,27,9,"Sim",0
+"CLI-336","Masculino",49,"Pós-Graduação",10101.99,32,5,"Sim",0
+"CLI-337","Masculino",30,"Graduação",9592.88,17,9,"Sim",0
+"CLI-338","Feminino",34,"Pós-Graduação",2500,56,10,"Sim",1
+"CLI-339","Masculino",40,"Pós-Graduação",7154.52,33,9,"Sim",0
+"CLI-340","Masculino",40,"Pós-Graduação",2814.62,2,3,"Sim",0
+"CLI-341","Masculino",40,"Pós-Graduação",10358.77,34,9,"Não",0
+"CLI-342","Feminino",34,"Graduação",7034.02,18,7,"Sim",0
+"CLI-343","Masculino",32,"Pós-Graduação",5479.96,11,7,"Sim",1
+"CLI-344","Feminino",36,"Mestrado/Doutorado",7795.34,42,10,"Sim",0
+"CLI-345","Masculino",35,"Pós-Graduação",5354.46,42,10,"Sim",0
+"CLI-346","Feminino",40,"Ensino Médio",10455.2,9,9,"Sim",0
+"CLI-347","Masculino",39,"Graduação",9037.87,54,10,"Não",0
+"CLI-348","Feminino",45,"Ensino Médio",2747.19,10,7,"Sim",0
+"CLI-349","Feminino",33,"Graduação",13054.77,55,10,"Sim",0
+"CLI-350","Masculino",36,"Pós-Graduação",12150.6,10,7,"Sim",1
+"CLI-351","Masculino",51,"Graduação",9639.39,9,9,"Sim",0
+"CLI-352","Feminino",41,"Pós-Graduação",14686.97,14,8,"Sim",0
+"CLI-353","Masculino",27,"Pós-Graduação",10822.83,29,5,"Sim",0
+"CLI-354","Feminino",43,"Ensino Médio",4385.94,39,9,"Sim",0
+"CLI-355","Masculino",39,"Graduação",2975.6,18,6,"Sim",0
+"CLI-356","Masculino",28,"Pós-Graduação",6681.26,59,9,"Não",0
+"CLI-357","Masculino",29,"Graduação",27660.22,32,8,"Sim",0
+"CLI-358","Feminino",40,"Ensino Médio",8799.13,43,9,"Sim",0
+"CLI-359","Masculino",41,"Ensino Médio",2945.86,33,8,"Sim",0
+"CLI-360","Feminino",37,"Graduação",6007.24,13,5,"Sim",0
+"CLI-361","Feminino",37,"Ensino Médio",7057.68,13,6,"Sim",0
+"CLI-362","Masculino",35,"Ensino Médio",9182.05,18,7,"Sim",0
+"CLI-363","Masculino",48,"Ensino Médio",5669.16,29,6,"Sim",0
+"CLI-364","Masculino",46,"Graduação",16353.44,9,9,"Sim",0
+"CLI-365","Feminino",22,"Pós-Graduação",8826.4,51,9,"Não",0
+"CLI-366","Feminino",26,"Mestrado/Doutorado",6646.38,15,9,"Sim",0
+"CLI-367","Feminino",41,"Ensino Médio",3519.29,27,4,"Sim",0
+"CLI-368","Masculino",29,"Pós-Graduação",7407.53,15,9,"Sim",0
+"CLI-369","Feminino",28,"Pós-Graduação",2500,22,7,"Não",0
+"CLI-370","Masculino",40,"Pós-Graduação",6042.07,55,9,"Não",0
+"CLI-371","Feminino",37,"Graduação",3864.03,43,8,"Não",0
+"CLI-372","Masculino",39,"Pós-Graduação",8316.58,45,7,"Sim",0
+"CLI-373","Feminino",31,"Mestrado/Doutorado",9653.34,35,9,"Sim",0
+"CLI-374","Masculino",31,"Graduação",4611.63,4,9,"Sim",0
+"CLI-375","Feminino",39,"Graduação",3940.72,41,7,"Sim",0
+"CLI-376","Feminino",38,"Graduação",8039.66,48,7,"Sim",0
+"CLI-377","Feminino",38,"Pós-Graduação",4282.55,46,2,"Sim",0
+"CLI-378","Feminino",30,"Mestrado/Doutorado",2568.14,54,2,"Sim",0
+"CLI-379","Masculino",41,"Graduação",3868.08,23,5,"Sim",0
+"CLI-380","Feminino",39,"Mestrado/Doutorado",9003.13,25,9,"Sim",0
+"CLI-381","Masculino",50,"Graduação",7506.91,22,8,"Sim",0
+"CLI-382","Masculino",34,"Graduação",2500,55,10,"Sim",0
+"CLI-383","Feminino",46,"Pós-Graduação",3372.02,9,9,"Sim",0
+"CLI-384","Masculino",30,"Pós-Graduação",11346.74,38,9,"Sim",0
+"CLI-385","Feminino",40,"Graduação",8032.31,10,9,"Sim",0
+"CLI-386","Masculino",29,"Graduação",3933.06,45,5,"Sim",1
+"CLI-387","Feminino",47,"Ensino Médio",9943.63,48,6,"Não",0
+"CLI-388","Masculino",42,"Pós-Graduação",7510.37,23,10,"Sim",1
+"CLI-389","Masculino",35,"Pós-Graduação",7273.72,24,8,"Sim",0
+"CLI-390","Masculino",37,"Pós-Graduação",3048.29,56,7,"Sim",1
+"CLI-391","Feminino",41,"Pós-Graduação",2500,30,7,"Sim",0
+"CLI-392","Masculino",43,"Graduação",3660.56,32,10,"Sim",0
+"CLI-393","Masculino",49,"Graduação",19590.83,21,7,"Sim",0
+"CLI-394","Masculino",34,"Pós-Graduação",5356.74,24,10,"Sim",0
+"CLI-395","Masculino",32,"Graduação",5372.05,19,9,"Não",1
+"CLI-396","Masculino",64,"Mestrado/Doutorado",6057.16,41,7,"Sim",0
+"CLI-397","Masculino",30,"Ensino Médio",6791.82,46,10,"Sim",0
+"CLI-398","Feminino",41,"Graduação",7630.61,28,9,"Sim",1
+"CLI-399","Feminino",48,"Pós-Graduação",11767.91,23,9,"Sim",0
+"CLI-400","Feminino",18,"Graduação",9813.37,25,4,"Sim",0
